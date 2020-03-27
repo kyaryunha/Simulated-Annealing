@@ -1,0 +1,4126 @@
+============================
+x = 1
+
+*** 1 second ago ***
+ numcnt : 62581 
+ One_line Sum : 94
+ Score        : 28
+
+*** 2 second ago ***
+ numcnt : 127800 
+ One_line Sum : 94
+ Score        : 29
+
+*** 3 second ago ***
+ numcnt : 186448 
+ One_line Sum : 94
+ Score        : 29
+
+*** 4 second ago ***
+ numcnt : 249274 
+ One_line Sum : 94
+ Score        : 29
+
+*** 5 second ago ***
+ numcnt : 313114 
+ One_line Sum : 94
+ Score        : 29
+
+*** 6 second ago ***
+ numcnt : 375037 
+ One_line Sum : 94
+ Score        : 29
+
+*** 7 second ago ***
+ numcnt : 437031 
+ One_line Sum : 94
+ Score        : 30
+
+*** 8 second ago ***
+ numcnt : 497560 
+ One_line Sum : 94
+ Score        : 30
+
+*** 9 second ago ***
+ numcnt : 566490 
+ One_line Sum : 94
+ Score        : 30
+
+*** 10 second ago ***
+ numcnt : 637381 
+ One_line Sum : 94
+ Score        : 30
+
+*** 11 second ago ***
+ numcnt : 706985 
+ One_line Sum : 94
+ Score        : 30
+
+*** 12 second ago ***
+ numcnt : 775974 
+ One_line Sum : 94
+ Score        : 30
+
+*** 13 second ago ***
+ numcnt : 846813 
+ One_line Sum : 94
+ Score        : 30
+
+*** 14 second ago ***
+ numcnt : 917130 
+ One_line Sum : 94
+ Score        : 30
+
+*** 15 second ago ***
+ numcnt : 987635 
+ One_line Sum : 94
+ Score        : 30
+
+*** 16 second ago ***
+ numcnt : 1058670 
+ One_line Sum : 94
+ Score        : 30
+
+*** 17 second ago ***
+ numcnt : 1129578 
+ One_line Sum : 94
+ Score        : 30
+
+*** 18 second ago ***
+ numcnt : 1200612 
+ One_line Sum : 94
+ Score        : 30
+
+*** 19 second ago ***
+ numcnt : 1271259 
+ One_line Sum : 94
+ Score        : 30
+
+*** 20 second ago ***
+ numcnt : 1342999 
+ One_line Sum : 94
+ Score        : 30
+
+*** 21 second ago ***
+ numcnt : 1414040 
+ One_line Sum : 94
+ Score        : 30
+
+*** 22 second ago ***
+ numcnt : 1483906 
+ One_line Sum : 94
+ Score        : 30
+
+ Best is this. 
+ One_line Sum : 94
+ Score        : 30
+ 55  58  56  29 
+ 40   6  26  22 
+ 41  28  48  16 
+ 11   2  54  27 
+
+ 37  38  43  60 
+ 63   1  18  12 
+ 53   9  13  19 
+ 61  46  20   3 
+
+ 57  59  62  47 
+ 52  15  17  10 
+ 32  31   8  23 
+ 35  42   7  14 
+
+ 44  24  64  51 
+ 39  21  33  50 
+ 34  45  25  36 
+  5   4  49  30 
+
+============================
+x = 2
+
+*** 0 second ago ***
+ numcnt : 1 
+ One_line Sum : 106
+ Score        : 3
+
+*** 1 second ago ***
+ numcnt : 70430 
+ One_line Sum : 130
+ Score        : 27
+
+*** 2 second ago ***
+ numcnt : 140944 
+ One_line Sum : 130
+ Score        : 27
+
+*** 3 second ago ***
+ numcnt : 211674 
+ One_line Sum : 130
+ Score        : 32
+
+*** 4 second ago ***
+ numcnt : 282513 
+ One_line Sum : 130
+ Score        : 32
+
+*** 5 second ago ***
+ numcnt : 352993 
+ One_line Sum : 130
+ Score        : 32
+
+*** 6 second ago ***
+ numcnt : 422356 
+ One_line Sum : 130
+ Score        : 32
+
+*** 7 second ago ***
+ numcnt : 491912 
+ One_line Sum : 130
+ Score        : 32
+
+*** 8 second ago ***
+ numcnt : 562094 
+ One_line Sum : 130
+ Score        : 32
+
+*** 9 second ago ***
+ numcnt : 632711 
+ One_line Sum : 130
+ Score        : 36
+
+*** 10 second ago ***
+ numcnt : 704886 
+ One_line Sum : 130
+ Score        : 38
+
+*** 11 second ago ***
+ numcnt : 777394 
+ One_line Sum : 130
+ Score        : 38
+
+*** 12 second ago ***
+ numcnt : 850264 
+ One_line Sum : 130
+ Score        : 39
+
+*** 13 second ago ***
+ numcnt : 921707 
+ One_line Sum : 130
+ Score        : 41
+
+*** 14 second ago ***
+ numcnt : 994439 
+ One_line Sum : 130
+ Score        : 42
+
+*** 15 second ago ***
+ numcnt : 1066916 
+ One_line Sum : 130
+ Score        : 42
+
+*** 16 second ago ***
+ numcnt : 1139156 
+ One_line Sum : 130
+ Score        : 42
+
+*** 17 second ago ***
+ numcnt : 1210843 
+ One_line Sum : 130
+ Score        : 42
+
+*** 18 second ago ***
+ numcnt : 1281588 
+ One_line Sum : 130
+ Score        : 42
+
+*** 19 second ago ***
+ numcnt : 1353193 
+ One_line Sum : 130
+ Score        : 42
+
+*** 20 second ago ***
+ numcnt : 1420478 
+ One_line Sum : 130
+ Score        : 42
+
+*** 21 second ago ***
+ numcnt : 1487622 
+ One_line Sum : 130
+ Score        : 42
+
+ Best is this. 
+ One_line Sum : 130
+ Score        : 42
+ 26  38  55  11 
+ 15  53  17  45 
+ 35  36  12  47 
+ 54   3  46  27 
+
+ 40   2  39  49 
+ 30  37   1  62 
+ 10  48  28  57 
+  4  43  23  25 
+
+ 42  31   7  50 
+ 44  21  60   5 
+ 58  14  34  24 
+  6  64   9  51 
+
+ 22  59   8  41 
+ 63  19  52  18 
+ 29  32  56  13 
+ 16  20  61  33 
+
+============================
+x = 3
+
+*** 0 second ago ***
+ numcnt : 1 
+ One_line Sum : 106
+ Score        : 4
+
+*** 1 second ago ***
+ numcnt : 70319 
+ One_line Sum : 134
+ Score        : 29
+
+*** 2 second ago ***
+ numcnt : 139145 
+ One_line Sum : 134
+ Score        : 29
+
+*** 3 second ago ***
+ numcnt : 209432 
+ One_line Sum : 134
+ Score        : 29
+
+*** 4 second ago ***
+ numcnt : 279129 
+ One_line Sum : 134
+ Score        : 29
+
+*** 5 second ago ***
+ numcnt : 348756 
+ One_line Sum : 134
+ Score        : 29
+
+*** 6 second ago ***
+ numcnt : 418332 
+ One_line Sum : 134
+ Score        : 29
+
+*** 7 second ago ***
+ numcnt : 484647 
+ One_line Sum : 134
+ Score        : 29
+
+*** 8 second ago ***
+ numcnt : 553034 
+ One_line Sum : 134
+ Score        : 30
+
+*** 9 second ago ***
+ numcnt : 619430 
+ One_line Sum : 134
+ Score        : 30
+
+*** 10 second ago ***
+ numcnt : 688986 
+ One_line Sum : 134
+ Score        : 30
+
+*** 11 second ago ***
+ numcnt : 755907 
+ One_line Sum : 134
+ Score        : 31
+
+*** 12 second ago ***
+ numcnt : 825847 
+ One_line Sum : 134
+ Score        : 34
+
+*** 13 second ago ***
+ numcnt : 896160 
+ One_line Sum : 134
+ Score        : 34
+
+*** 14 second ago ***
+ numcnt : 966973 
+ One_line Sum : 134
+ Score        : 34
+
+*** 15 second ago ***
+ numcnt : 1037844 
+ One_line Sum : 134
+ Score        : 37
+
+*** 16 second ago ***
+ numcnt : 1106596 
+ One_line Sum : 134
+ Score        : 37
+
+*** 17 second ago ***
+ numcnt : 1177269 
+ One_line Sum : 134
+ Score        : 37
+
+*** 18 second ago ***
+ numcnt : 1248241 
+ One_line Sum : 134
+ Score        : 37
+
+*** 19 second ago ***
+ numcnt : 1318026 
+ One_line Sum : 134
+ Score        : 37
+
+*** 20 second ago ***
+ numcnt : 1388231 
+ One_line Sum : 134
+ Score        : 37
+
+*** 21 second ago ***
+ numcnt : 1458320 
+ One_line Sum : 134
+ Score        : 37
+
+ Best is this. 
+ One_line Sum : 130
+ Score        : 42
+ 26  38  55  11 
+ 15  53  17  45 
+ 35  36  12  47 
+ 54   3  46  27 
+
+ 40   2  39  49 
+ 30  37   1  62 
+ 10  48  28  57 
+  4  43  23  25 
+
+ 42  31   7  50 
+ 44  21  60   5 
+ 58  14  34  24 
+  6  64   9  51 
+
+ 22  59   8  41 
+ 63  19  52  18 
+ 29  32  56  13 
+ 16  20  61  33 
+
+============================
+x = 4
+
+*** 0 second ago ***
+ numcnt : 1 
+ One_line Sum : 106
+ Score        : 3
+
+*** 1 second ago ***
+ numcnt : 65061 
+ One_line Sum : 139
+ Score        : 32
+
+*** 2 second ago ***
+ numcnt : 132847 
+ One_line Sum : 139
+ Score        : 33
+
+*** 3 second ago ***
+ numcnt : 197246 
+ One_line Sum : 139
+ Score        : 33
+
+*** 4 second ago ***
+ numcnt : 256714 
+ One_line Sum : 139
+ Score        : 33
+
+*** 5 second ago ***
+ numcnt : 324566 
+ One_line Sum : 139
+ Score        : 33
+
+*** 6 second ago ***
+ numcnt : 380570 
+ One_line Sum : 139
+ Score        : 33
+
+*** 7 second ago ***
+ numcnt : 429046 
+ One_line Sum : 139
+ Score        : 33
+
+*** 8 second ago ***
+ numcnt : 491599 
+ One_line Sum : 139
+ Score        : 33
+
+*** 9 second ago ***
+ numcnt : 556597 
+ One_line Sum : 139
+ Score        : 33
+
+*** 10 second ago ***
+ numcnt : 619404 
+ One_line Sum : 139
+ Score        : 33
+
+*** 11 second ago ***
+ numcnt : 686849 
+ One_line Sum : 139
+ Score        : 33
+
+*** 12 second ago ***
+ numcnt : 757216 
+ One_line Sum : 139
+ Score        : 33
+
+*** 13 second ago ***
+ numcnt : 827468 
+ One_line Sum : 139
+ Score        : 33
+
+*** 14 second ago ***
+ numcnt : 897054 
+ One_line Sum : 139
+ Score        : 35
+
+*** 15 second ago ***
+ numcnt : 964257 
+ One_line Sum : 139
+ Score        : 36
+
+*** 16 second ago ***
+ numcnt : 1033175 
+ One_line Sum : 139
+ Score        : 37
+
+*** 17 second ago ***
+ numcnt : 1105974 
+ One_line Sum : 139
+ Score        : 37
+
+*** 18 second ago ***
+ numcnt : 1173964 
+ One_line Sum : 139
+ Score        : 37
+
+*** 19 second ago ***
+ numcnt : 1243470 
+ One_line Sum : 139
+ Score        : 37
+
+*** 20 second ago ***
+ numcnt : 1312913 
+ One_line Sum : 139
+ Score        : 37
+
+*** 21 second ago ***
+ numcnt : 1382423 
+ One_line Sum : 139
+ Score        : 37
+
+*** 22 second ago ***
+ numcnt : 1449999 
+ One_line Sum : 139
+ Score        : 37
+
+ Best is this. 
+ One_line Sum : 130
+ Score        : 42
+ 26  38  55  11 
+ 15  53  17  45 
+ 35  36  12  47 
+ 54   3  46  27 
+
+ 40   2  39  49 
+ 30  37   1  62 
+ 10  48  28  57 
+  4  43  23  25 
+
+ 42  31   7  50 
+ 44  21  60   5 
+ 58  14  34  24 
+  6  64   9  51 
+
+ 22  59   8  41 
+ 63  19  52  18 
+ 29  32  56  13 
+ 16  20  61  33 
+
+============================
+x = 5
+
+*** 0 second ago ***
+ numcnt : 1 
+ One_line Sum : 106
+ Score        : 3
+
+*** 1 second ago ***
+ numcnt : 66564 
+ One_line Sum : 125
+ Score        : 30
+
+*** 2 second ago ***
+ numcnt : 134499 
+ One_line Sum : 125
+ Score        : 30
+
+*** 3 second ago ***
+ numcnt : 203088 
+ One_line Sum : 125
+ Score        : 30
+
+*** 4 second ago ***
+ numcnt : 268957 
+ One_line Sum : 125
+ Score        : 30
+
+*** 5 second ago ***
+ numcnt : 337027 
+ One_line Sum : 125
+ Score        : 30
+
+*** 6 second ago ***
+ numcnt : 406863 
+ One_line Sum : 125
+ Score        : 30
+
+*** 7 second ago ***
+ numcnt : 476327 
+ One_line Sum : 125
+ Score        : 30
+
+*** 8 second ago ***
+ numcnt : 546369 
+ One_line Sum : 125
+ Score        : 30
+
+*** 9 second ago ***
+ numcnt : 616949 
+ One_line Sum : 125
+ Score        : 30
+
+*** 10 second ago ***
+ numcnt : 686745 
+ One_line Sum : 125
+ Score        : 31
+
+*** 11 second ago ***
+ numcnt : 755504 
+ One_line Sum : 125
+ Score        : 34
+
+*** 12 second ago ***
+ numcnt : 825965 
+ One_line Sum : 125
+ Score        : 34
+
+*** 13 second ago ***
+ numcnt : 896437 
+ One_line Sum : 125
+ Score        : 34
+
+*** 14 second ago ***
+ numcnt : 966921 
+ One_line Sum : 125
+ Score        : 34
+
+*** 15 second ago ***
+ numcnt : 1037091 
+ One_line Sum : 125
+ Score        : 34
+
+*** 16 second ago ***
+ numcnt : 1104457 
+ One_line Sum : 125
+ Score        : 34
+
+*** 17 second ago ***
+ numcnt : 1175966 
+ One_line Sum : 125
+ Score        : 34
+
+*** 18 second ago ***
+ numcnt : 1243992 
+ One_line Sum : 125
+ Score        : 36
+
+*** 19 second ago ***
+ numcnt : 1313625 
+ One_line Sum : 125
+ Score        : 36
+
+*** 20 second ago ***
+ numcnt : 1384247 
+ One_line Sum : 125
+ Score        : 36
+
+*** 21 second ago ***
+ numcnt : 1453182 
+ One_line Sum : 125
+ Score        : 36
+
+ Best is this. 
+ One_line Sum : 130
+ Score        : 42
+ 26  38  55  11 
+ 15  53  17  45 
+ 35  36  12  47 
+ 54   3  46  27 
+
+ 40   2  39  49 
+ 30  37   1  62 
+ 10  48  28  57 
+  4  43  23  25 
+
+ 42  31   7  50 
+ 44  21  60   5 
+ 58  14  34  24 
+  6  64   9  51 
+
+ 22  59   8  41 
+ 63  19  52  18 
+ 29  32  56  13 
+ 16  20  61  33 
+
+============================
+x = 6
+
+*** 0 second ago ***
+ numcnt : 1 
+ One_line Sum : 106
+ Score        : 3
+
+*** 1 second ago ***
+ numcnt : 69344 
+ One_line Sum : 127
+ Score        : 26
+
+*** 2 second ago ***
+ numcnt : 138451 
+ One_line Sum : 127
+ Score        : 26
+
+*** 3 second ago ***
+ numcnt : 206652 
+ One_line Sum : 127
+ Score        : 26
+
+*** 4 second ago ***
+ numcnt : 270805 
+ One_line Sum : 127
+ Score        : 26
+
+*** 5 second ago ***
+ numcnt : 335690 
+ One_line Sum : 127
+ Score        : 26
+
+*** 6 second ago ***
+ numcnt : 402591 
+ One_line Sum : 127
+ Score        : 26
+
+*** 7 second ago ***
+ numcnt : 471997 
+ One_line Sum : 127
+ Score        : 28
+
+*** 8 second ago ***
+ numcnt : 539937 
+ One_line Sum : 127
+ Score        : 28
+
+*** 9 second ago ***
+ numcnt : 609900 
+ One_line Sum : 127
+ Score        : 28
+
+*** 10 second ago ***
+ numcnt : 677752 
+ One_line Sum : 127
+ Score        : 29
+
+*** 11 second ago ***
+ numcnt : 746540 
+ One_line Sum : 127
+ Score        : 31
+
+*** 12 second ago ***
+ numcnt : 815630 
+ One_line Sum : 127
+ Score        : 33
+
+*** 13 second ago ***
+ numcnt : 879451 
+ One_line Sum : 127
+ Score        : 36
+
+*** 14 second ago ***
+ numcnt : 941232 
+ One_line Sum : 127
+ Score        : 36
+
+*** 15 second ago ***
+ numcnt : 1003875 
+ One_line Sum : 127
+ Score        : 36
+
+*** 16 second ago ***
+ numcnt : 1071661 
+ One_line Sum : 127
+ Score        : 36
+
+*** 17 second ago ***
+ numcnt : 1138162 
+ One_line Sum : 127
+ Score        : 36
+
+*** 18 second ago ***
+ numcnt : 1204204 
+ One_line Sum : 127
+ Score        : 36
+
+*** 19 second ago ***
+ numcnt : 1266841 
+ One_line Sum : 127
+ Score        : 36
+
+*** 20 second ago ***
+ numcnt : 1336772 
+ One_line Sum : 127
+ Score        : 36
+
+*** 21 second ago ***
+ numcnt : 1405637 
+ One_line Sum : 127
+ Score        : 36
+
+*** 22 second ago ***
+ numcnt : 1474399 
+ One_line Sum : 127
+ Score        : 36
+
+ Best is this. 
+ One_line Sum : 130
+ Score        : 42
+ 26  38  55  11 
+ 15  53  17  45 
+ 35  36  12  47 
+ 54   3  46  27 
+
+ 40   2  39  49 
+ 30  37   1  62 
+ 10  48  28  57 
+  4  43  23  25 
+
+ 42  31   7  50 
+ 44  21  60   5 
+ 58  14  34  24 
+  6  64   9  51 
+
+ 22  59   8  41 
+ 63  19  52  18 
+ 29  32  56  13 
+ 16  20  61  33 
+
+============================
+x = 7
+
+*** 0 second ago ***
+ numcnt : 1 
+ One_line Sum : 106
+ Score        : 3
+
+*** 1 second ago ***
+ numcnt : 69501 
+ One_line Sum : 132
+ Score        : 30
+
+*** 2 second ago ***
+ numcnt : 137613 
+ One_line Sum : 132
+ Score        : 31
+
+*** 3 second ago ***
+ numcnt : 205977 
+ One_line Sum : 132
+ Score        : 31
+
+*** 4 second ago ***
+ numcnt : 275342 
+ One_line Sum : 132
+ Score        : 31
+
+*** 5 second ago ***
+ numcnt : 344293 
+ One_line Sum : 132
+ Score        : 31
+
+*** 6 second ago ***
+ numcnt : 414698 
+ One_line Sum : 132
+ Score        : 31
+
+*** 7 second ago ***
+ numcnt : 482537 
+ One_line Sum : 132
+ Score        : 34
+
+*** 8 second ago ***
+ numcnt : 551696 
+ One_line Sum : 132
+ Score        : 34
+
+*** 9 second ago ***
+ numcnt : 620883 
+ One_line Sum : 132
+ Score        : 34
+
+*** 10 second ago ***
+ numcnt : 691827 
+ One_line Sum : 132
+ Score        : 34
+
+*** 11 second ago ***
+ numcnt : 762427 
+ One_line Sum : 132
+ Score        : 34
+
+*** 12 second ago ***
+ numcnt : 831526 
+ One_line Sum : 132
+ Score        : 34
+
+*** 13 second ago ***
+ numcnt : 901404 
+ One_line Sum : 132
+ Score        : 34
+
+*** 14 second ago ***
+ numcnt : 971586 
+ One_line Sum : 132
+ Score        : 34
+
+*** 15 second ago ***
+ numcnt : 1041715 
+ One_line Sum : 132
+ Score        : 34
+
+*** 16 second ago ***
+ numcnt : 1110163 
+ One_line Sum : 132
+ Score        : 34
+
+*** 17 second ago ***
+ numcnt : 1179007 
+ One_line Sum : 132
+ Score        : 34
+
+*** 18 second ago ***
+ numcnt : 1244989 
+ One_line Sum : 132
+ Score        : 34
+
+*** 19 second ago ***
+ numcnt : 1314596 
+ One_line Sum : 132
+ Score        : 34
+
+*** 20 second ago ***
+ numcnt : 1376583 
+ One_line Sum : 132
+ Score        : 34
+
+*** 21 second ago ***
+ numcnt : 1447170 
+ One_line Sum : 132
+ Score        : 34
+
+ Best is this. 
+ One_line Sum : 130
+ Score        : 42
+ 26  38  55  11 
+ 15  53  17  45 
+ 35  36  12  47 
+ 54   3  46  27 
+
+ 40   2  39  49 
+ 30  37   1  62 
+ 10  48  28  57 
+  4  43  23  25 
+
+ 42  31   7  50 
+ 44  21  60   5 
+ 58  14  34  24 
+  6  64   9  51 
+
+ 22  59   8  41 
+ 63  19  52  18 
+ 29  32  56  13 
+ 16  20  61  33 
+
+============================
+x = 8
+
+*** 0 second ago ***
+ numcnt : 1 
+ One_line Sum : 106
+ Score        : 3
+
+*** 1 second ago ***
+ numcnt : 67138 
+ One_line Sum : 130
+ Score        : 27
+
+*** 2 second ago ***
+ numcnt : 134439 
+ One_line Sum : 130
+ Score        : 27
+
+*** 3 second ago ***
+ numcnt : 203207 
+ One_line Sum : 130
+ Score        : 27
+
+*** 4 second ago ***
+ numcnt : 271070 
+ One_line Sum : 130
+ Score        : 27
+
+*** 5 second ago ***
+ numcnt : 337627 
+ One_line Sum : 130
+ Score        : 27
+
+*** 6 second ago ***
+ numcnt : 403560 
+ One_line Sum : 130
+ Score        : 27
+
+*** 7 second ago ***
+ numcnt : 468596 
+ One_line Sum : 130
+ Score        : 27
+
+*** 8 second ago ***
+ numcnt : 538386 
+ One_line Sum : 130
+ Score        : 27
+
+*** 9 second ago ***
+ numcnt : 608308 
+ One_line Sum : 130
+ Score        : 32
+
+*** 10 second ago ***
+ numcnt : 678797 
+ One_line Sum : 130
+ Score        : 32
+
+*** 11 second ago ***
+ numcnt : 748560 
+ One_line Sum : 130
+ Score        : 32
+
+*** 12 second ago ***
+ numcnt : 818381 
+ One_line Sum : 130
+ Score        : 32
+
+*** 13 second ago ***
+ numcnt : 888895 
+ One_line Sum : 130
+ Score        : 32
+
+*** 14 second ago ***
+ numcnt : 958762 
+ One_line Sum : 130
+ Score        : 32
+
+*** 15 second ago ***
+ numcnt : 1026643 
+ One_line Sum : 130
+ Score        : 32
+
+*** 16 second ago ***
+ numcnt : 1098216 
+ One_line Sum : 130
+ Score        : 32
+
+*** 17 second ago ***
+ numcnt : 1168579 
+ One_line Sum : 130
+ Score        : 32
+
+*** 18 second ago ***
+ numcnt : 1239996 
+ One_line Sum : 130
+ Score        : 33
+
+*** 19 second ago ***
+ numcnt : 1309493 
+ One_line Sum : 130
+ Score        : 34
+
+*** 20 second ago ***
+ numcnt : 1379191 
+ One_line Sum : 130
+ Score        : 35
+
+*** 21 second ago ***
+ numcnt : 1449887 
+ One_line Sum : 130
+ Score        : 35
+
+ Best is this. 
+ One_line Sum : 130
+ Score        : 42
+ 26  38  55  11 
+ 15  53  17  45 
+ 35  36  12  47 
+ 54   3  46  27 
+
+ 40   2  39  49 
+ 30  37   1  62 
+ 10  48  28  57 
+  4  43  23  25 
+
+ 42  31   7  50 
+ 44  21  60   5 
+ 58  14  34  24 
+  6  64   9  51 
+
+ 22  59   8  41 
+ 63  19  52  18 
+ 29  32  56  13 
+ 16  20  61  33 
+
+============================
+x = 9
+
+*** 0 second ago ***
+ numcnt : 1 
+ One_line Sum : 136
+ Score        : 4
+
+*** 1 second ago ***
+ numcnt : 70085 
+ One_line Sum : 153
+ Score        : 28
+
+*** 2 second ago ***
+ numcnt : 139539 
+ One_line Sum : 153
+ Score        : 29
+
+*** 3 second ago ***
+ numcnt : 210095 
+ One_line Sum : 153
+ Score        : 29
+
+*** 4 second ago ***
+ numcnt : 278523 
+ One_line Sum : 153
+ Score        : 29
+
+*** 5 second ago ***
+ numcnt : 344589 
+ One_line Sum : 153
+ Score        : 29
+
+*** 6 second ago ***
+ numcnt : 413501 
+ One_line Sum : 153
+ Score        : 29
+
+*** 7 second ago ***
+ numcnt : 483784 
+ One_line Sum : 153
+ Score        : 29
+
+*** 8 second ago ***
+ numcnt : 553170 
+ One_line Sum : 153
+ Score        : 29
+
+*** 9 second ago ***
+ numcnt : 622218 
+ One_line Sum : 153
+ Score        : 29
+
+*** 10 second ago ***
+ numcnt : 690164 
+ One_line Sum : 153
+ Score        : 29
+
+*** 11 second ago ***
+ numcnt : 760185 
+ One_line Sum : 153
+ Score        : 29
+
+*** 12 second ago ***
+ numcnt : 831172 
+ One_line Sum : 153
+ Score        : 31
+
+*** 13 second ago ***
+ numcnt : 900335 
+ One_line Sum : 153
+ Score        : 31
+
+*** 14 second ago ***
+ numcnt : 966373 
+ One_line Sum : 153
+ Score        : 31
+
+*** 15 second ago ***
+ numcnt : 1033751 
+ One_line Sum : 153
+ Score        : 31
+
+*** 16 second ago ***
+ numcnt : 1103835 
+ One_line Sum : 153
+ Score        : 31
+
+*** 17 second ago ***
+ numcnt : 1175387 
+ One_line Sum : 153
+ Score        : 31
+
+*** 18 second ago ***
+ numcnt : 1245543 
+ One_line Sum : 153
+ Score        : 32
+
+*** 19 second ago ***
+ numcnt : 1316340 
+ One_line Sum : 153
+ Score        : 32
+
+*** 20 second ago ***
+ numcnt : 1386688 
+ One_line Sum : 153
+ Score        : 32
+
+*** 21 second ago ***
+ numcnt : 1457700 
+ One_line Sum : 153
+ Score        : 32
+
+ Best is this. 
+ One_line Sum : 130
+ Score        : 42
+ 26  38  55  11 
+ 15  53  17  45 
+ 35  36  12  47 
+ 54   3  46  27 
+
+ 40   2  39  49 
+ 30  37   1  62 
+ 10  48  28  57 
+  4  43  23  25 
+
+ 42  31   7  50 
+ 44  21  60   5 
+ 58  14  34  24 
+  6  64   9  51 
+
+ 22  59   8  41 
+ 63  19  52  18 
+ 29  32  56  13 
+ 16  20  61  33 
+
+============================
+x = 10
+
+*** 0 second ago ***
+ numcnt : 1 
+ One_line Sum : 106
+ Score        : 3
+
+*** 1 second ago ***
+ numcnt : 69092 
+ One_line Sum : 134
+ Score        : 31
+
+*** 2 second ago ***
+ numcnt : 133233 
+ One_line Sum : 134
+ Score        : 31
+
+*** 3 second ago ***
+ numcnt : 201406 
+ One_line Sum : 134
+ Score        : 31
+
+*** 4 second ago ***
+ numcnt : 271961 
+ One_line Sum : 134
+ Score        : 31
+
+*** 5 second ago ***
+ numcnt : 342905 
+ One_line Sum : 134
+ Score        : 31
+
+*** 6 second ago ***
+ numcnt : 413386 
+ One_line Sum : 134
+ Score        : 31
+
+*** 7 second ago ***
+ numcnt : 483876 
+ One_line Sum : 134
+ Score        : 31
+
+*** 8 second ago ***
+ numcnt : 555061 
+ One_line Sum : 134
+ Score        : 33
+
+*** 9 second ago ***
+ numcnt : 626345 
+ One_line Sum : 134
+ Score        : 34
+
+*** 10 second ago ***
+ numcnt : 697457 
+ One_line Sum : 134
+ Score        : 35
+
+*** 11 second ago ***
+ numcnt : 767269 
+ One_line Sum : 134
+ Score        : 35
+
+*** 12 second ago ***
+ numcnt : 837111 
+ One_line Sum : 134
+ Score        : 35
+
+*** 13 second ago ***
+ numcnt : 905811 
+ One_line Sum : 134
+ Score        : 35
+
+*** 14 second ago ***
+ numcnt : 977081 
+ One_line Sum : 134
+ Score        : 35
+
+*** 15 second ago ***
+ numcnt : 1048848 
+ One_line Sum : 134
+ Score        : 35
+
+*** 16 second ago ***
+ numcnt : 1119803 
+ One_line Sum : 134
+ Score        : 35
+
+*** 17 second ago ***
+ numcnt : 1190801 
+ One_line Sum : 134
+ Score        : 35
+
+*** 18 second ago ***
+ numcnt : 1258588 
+ One_line Sum : 134
+ Score        : 35
+
+*** 19 second ago ***
+ numcnt : 1326535 
+ One_line Sum : 134
+ Score        : 35
+
+*** 20 second ago ***
+ numcnt : 1396342 
+ One_line Sum : 134
+ Score        : 35
+
+*** 21 second ago ***
+ numcnt : 1466432 
+ One_line Sum : 134
+ Score        : 35
+
+ Best is this. 
+ One_line Sum : 130
+ Score        : 42
+ 26  38  55  11 
+ 15  53  17  45 
+ 35  36  12  47 
+ 54   3  46  27 
+
+ 40   2  39  49 
+ 30  37   1  62 
+ 10  48  28  57 
+  4  43  23  25 
+
+ 42  31   7  50 
+ 44  21  60   5 
+ 58  14  34  24 
+  6  64   9  51 
+
+ 22  59   8  41 
+ 63  19  52  18 
+ 29  32  56  13 
+ 16  20  61  33 
+
+============================
+x = 11
+
+*** 0 second ago ***
+ numcnt : 1 
+ One_line Sum : 106
+ Score        : 3
+
+*** 1 second ago ***
+ numcnt : 67546 
+ One_line Sum : 124
+ Score        : 31
+
+*** 2 second ago ***
+ numcnt : 134753 
+ One_line Sum : 124
+ Score        : 32
+
+*** 3 second ago ***
+ numcnt : 205426 
+ One_line Sum : 124
+ Score        : 32
+
+*** 4 second ago ***
+ numcnt : 275318 
+ One_line Sum : 124
+ Score        : 32
+
+*** 5 second ago ***
+ numcnt : 342930 
+ One_line Sum : 124
+ Score        : 32
+
+*** 6 second ago ***
+ numcnt : 411681 
+ One_line Sum : 124
+ Score        : 32
+
+*** 7 second ago ***
+ numcnt : 480592 
+ One_line Sum : 124
+ Score        : 32
+
+*** 8 second ago ***
+ numcnt : 548138 
+ One_line Sum : 124
+ Score        : 32
+
+*** 9 second ago ***
+ numcnt : 616667 
+ One_line Sum : 124
+ Score        : 33
+
+*** 10 second ago ***
+ numcnt : 686467 
+ One_line Sum : 124
+ Score        : 33
+
+*** 11 second ago ***
+ numcnt : 755357 
+ One_line Sum : 124
+ Score        : 33
+
+*** 12 second ago ***
+ numcnt : 823974 
+ One_line Sum : 124
+ Score        : 33
+
+*** 13 second ago ***
+ numcnt : 893353 
+ One_line Sum : 124
+ Score        : 33
+
+*** 14 second ago ***
+ numcnt : 964424 
+ One_line Sum : 124
+ Score        : 33
+
+*** 15 second ago ***
+ numcnt : 1034875 
+ One_line Sum : 124
+ Score        : 33
+
+*** 16 second ago ***
+ numcnt : 1104723 
+ One_line Sum : 124
+ Score        : 33
+
+*** 17 second ago ***
+ numcnt : 1173985 
+ One_line Sum : 124
+ Score        : 33
+
+*** 18 second ago ***
+ numcnt : 1244047 
+ One_line Sum : 124
+ Score        : 36
+
+*** 19 second ago ***
+ numcnt : 1314837 
+ One_line Sum : 124
+ Score        : 36
+
+*** 20 second ago ***
+ numcnt : 1385633 
+ One_line Sum : 124
+ Score        : 36
+
+*** 21 second ago ***
+ numcnt : 1453995 
+ One_line Sum : 124
+ Score        : 36
+
+ Best is this. 
+ One_line Sum : 130
+ Score        : 42
+ 26  38  55  11 
+ 15  53  17  45 
+ 35  36  12  47 
+ 54   3  46  27 
+
+ 40   2  39  49 
+ 30  37   1  62 
+ 10  48  28  57 
+  4  43  23  25 
+
+ 42  31   7  50 
+ 44  21  60   5 
+ 58  14  34  24 
+  6  64   9  51 
+
+ 22  59   8  41 
+ 63  19  52  18 
+ 29  32  56  13 
+ 16  20  61  33 
+
+============================
+x = 12
+
+*** 0 second ago ***
+ numcnt : 1 
+ One_line Sum : 124
+ Score        : 4
+
+*** 1 second ago ***
+ numcnt : 70435 
+ One_line Sum : 135
+ Score        : 34
+
+*** 2 second ago ***
+ numcnt : 141034 
+ One_line Sum : 135
+ Score        : 34
+
+*** 3 second ago ***
+ numcnt : 212894 
+ One_line Sum : 135
+ Score        : 34
+
+*** 4 second ago ***
+ numcnt : 283942 
+ One_line Sum : 135
+ Score        : 34
+
+*** 5 second ago ***
+ numcnt : 353966 
+ One_line Sum : 135
+ Score        : 34
+
+*** 6 second ago ***
+ numcnt : 423211 
+ One_line Sum : 135
+ Score        : 34
+
+*** 7 second ago ***
+ numcnt : 493252 
+ One_line Sum : 135
+ Score        : 34
+
+*** 8 second ago ***
+ numcnt : 560688 
+ One_line Sum : 135
+ Score        : 34
+
+*** 9 second ago ***
+ numcnt : 629310 
+ One_line Sum : 135
+ Score        : 34
+
+*** 10 second ago ***
+ numcnt : 699752 
+ One_line Sum : 135
+ Score        : 34
+
+*** 11 second ago ***
+ numcnt : 769761 
+ One_line Sum : 135
+ Score        : 34
+
+*** 12 second ago ***
+ numcnt : 840938 
+ One_line Sum : 135
+ Score        : 34
+
+*** 13 second ago ***
+ numcnt : 911700 
+ One_line Sum : 135
+ Score        : 34
+
+*** 14 second ago ***
+ numcnt : 981513 
+ One_line Sum : 135
+ Score        : 34
+
+*** 15 second ago ***
+ numcnt : 1051739 
+ One_line Sum : 135
+ Score        : 34
+
+*** 16 second ago ***
+ numcnt : 1120348 
+ One_line Sum : 135
+ Score        : 34
+
+*** 17 second ago ***
+ numcnt : 1191344 
+ One_line Sum : 135
+ Score        : 34
+
+*** 18 second ago ***
+ numcnt : 1260161 
+ One_line Sum : 135
+ Score        : 34
+
+*** 19 second ago ***
+ numcnt : 1329473 
+ One_line Sum : 135
+ Score        : 36
+
+*** 20 second ago ***
+ numcnt : 1400523 
+ One_line Sum : 135
+ Score        : 36
+
+*** 21 second ago ***
+ numcnt : 1470965 
+ One_line Sum : 135
+ Score        : 36
+
+ Best is this. 
+ One_line Sum : 130
+ Score        : 42
+ 26  38  55  11 
+ 15  53  17  45 
+ 35  36  12  47 
+ 54   3  46  27 
+
+ 40   2  39  49 
+ 30  37   1  62 
+ 10  48  28  57 
+  4  43  23  25 
+
+ 42  31   7  50 
+ 44  21  60   5 
+ 58  14  34  24 
+  6  64   9  51 
+
+ 22  59   8  41 
+ 63  19  52  18 
+ 29  32  56  13 
+ 16  20  61  33 
+
+============================
+x = 13
+
+*** 0 second ago ***
+ numcnt : 1 
+ One_line Sum : 106
+ Score        : 3
+
+*** 1 second ago ***
+ numcnt : 69334 
+ One_line Sum : 139
+ Score        : 30
+
+*** 2 second ago ***
+ numcnt : 138519 
+ One_line Sum : 139
+ Score        : 31
+
+*** 3 second ago ***
+ numcnt : 207548 
+ One_line Sum : 139
+ Score        : 31
+
+*** 4 second ago ***
+ numcnt : 275608 
+ One_line Sum : 139
+ Score        : 31
+
+*** 5 second ago ***
+ numcnt : 344062 
+ One_line Sum : 139
+ Score        : 31
+
+*** 6 second ago ***
+ numcnt : 411661 
+ One_line Sum : 139
+ Score        : 32
+
+*** 7 second ago ***
+ numcnt : 480828 
+ One_line Sum : 139
+ Score        : 32
+
+*** 8 second ago ***
+ numcnt : 550734 
+ One_line Sum : 139
+ Score        : 32
+
+*** 9 second ago ***
+ numcnt : 620843 
+ One_line Sum : 139
+ Score        : 33
+
+*** 10 second ago ***
+ numcnt : 691670 
+ One_line Sum : 139
+ Score        : 33
+
+*** 11 second ago ***
+ numcnt : 762171 
+ One_line Sum : 139
+ Score        : 33
+
+*** 12 second ago ***
+ numcnt : 831446 
+ One_line Sum : 139
+ Score        : 33
+
+*** 13 second ago ***
+ numcnt : 902277 
+ One_line Sum : 139
+ Score        : 33
+
+*** 14 second ago ***
+ numcnt : 971714 
+ One_line Sum : 139
+ Score        : 33
+
+*** 15 second ago ***
+ numcnt : 1042560 
+ One_line Sum : 139
+ Score        : 33
+
+*** 16 second ago ***
+ numcnt : 1110451 
+ One_line Sum : 139
+ Score        : 33
+
+*** 17 second ago ***
+ numcnt : 1180699 
+ One_line Sum : 139
+ Score        : 33
+
+*** 18 second ago ***
+ numcnt : 1241020 
+ One_line Sum : 139
+ Score        : 33
+
+*** 19 second ago ***
+ numcnt : 1292659 
+ One_line Sum : 139
+ Score        : 34
+
+*** 20 second ago ***
+ numcnt : 1342371 
+ One_line Sum : 139
+ Score        : 35
+
+*** 21 second ago ***
+ numcnt : 1410283 
+ One_line Sum : 139
+ Score        : 35
+
+*** 22 second ago ***
+ numcnt : 1478615 
+ One_line Sum : 139
+ Score        : 35
+
+ Best is this. 
+ One_line Sum : 130
+ Score        : 42
+ 26  38  55  11 
+ 15  53  17  45 
+ 35  36  12  47 
+ 54   3  46  27 
+
+ 40   2  39  49 
+ 30  37   1  62 
+ 10  48  28  57 
+  4  43  23  25 
+
+ 42  31   7  50 
+ 44  21  60   5 
+ 58  14  34  24 
+  6  64   9  51 
+
+ 22  59   8  41 
+ 63  19  52  18 
+ 29  32  56  13 
+ 16  20  61  33 
+
+============================
+x = 14
+
+*** 0 second ago ***
+ numcnt : 1 
+ One_line Sum : 106
+ Score        : 3
+
+*** 1 second ago ***
+ numcnt : 58980 
+ One_line Sum : 121
+ Score        : 29
+
+*** 2 second ago ***
+ numcnt : 111486 
+ One_line Sum : 121
+ Score        : 29
+
+*** 3 second ago ***
+ numcnt : 172838 
+ One_line Sum : 121
+ Score        : 29
+
+*** 4 second ago ***
+ numcnt : 236457 
+ One_line Sum : 121
+ Score        : 29
+
+*** 5 second ago ***
+ numcnt : 300905 
+ One_line Sum : 121
+ Score        : 29
+
+*** 6 second ago ***
+ numcnt : 369063 
+ One_line Sum : 121
+ Score        : 29
+
+*** 7 second ago ***
+ numcnt : 435140 
+ One_line Sum : 121
+ Score        : 29
+
+*** 8 second ago ***
+ numcnt : 503493 
+ One_line Sum : 121
+ Score        : 31
+
+*** 9 second ago ***
+ numcnt : 571653 
+ One_line Sum : 121
+ Score        : 32
+
+*** 10 second ago ***
+ numcnt : 638934 
+ One_line Sum : 121
+ Score        : 32
+
+*** 11 second ago ***
+ numcnt : 706074 
+ One_line Sum : 121
+ Score        : 32
+
+*** 12 second ago ***
+ numcnt : 771169 
+ One_line Sum : 121
+ Score        : 32
+
+*** 13 second ago ***
+ numcnt : 839720 
+ One_line Sum : 121
+ Score        : 32
+
+*** 14 second ago ***
+ numcnt : 908366 
+ One_line Sum : 121
+ Score        : 32
+
+*** 15 second ago ***
+ numcnt : 977347 
+ One_line Sum : 121
+ Score        : 33
+
+*** 16 second ago ***
+ numcnt : 1046872 
+ One_line Sum : 121
+ Score        : 33
+
+*** 17 second ago ***
+ numcnt : 1114572 
+ One_line Sum : 121
+ Score        : 33
+
+*** 18 second ago ***
+ numcnt : 1182636 
+ One_line Sum : 121
+ Score        : 33
+
+*** 19 second ago ***
+ numcnt : 1250967 
+ One_line Sum : 121
+ Score        : 33
+
+*** 20 second ago ***
+ numcnt : 1317376 
+ One_line Sum : 121
+ Score        : 33
+
+*** 21 second ago ***
+ numcnt : 1388327 
+ One_line Sum : 121
+ Score        : 33
+
+*** 22 second ago ***
+ numcnt : 1454912 
+ One_line Sum : 121
+ Score        : 33
+
+ Best is this. 
+ One_line Sum : 130
+ Score        : 42
+ 26  38  55  11 
+ 15  53  17  45 
+ 35  36  12  47 
+ 54   3  46  27 
+
+ 40   2  39  49 
+ 30  37   1  62 
+ 10  48  28  57 
+  4  43  23  25 
+
+ 42  31   7  50 
+ 44  21  60   5 
+ 58  14  34  24 
+  6  64   9  51 
+
+ 22  59   8  41 
+ 63  19  52  18 
+ 29  32  56  13 
+ 16  20  61  33 
+
+============================
+x = 15
+
+*** 0 second ago ***
+ numcnt : 1 
+ One_line Sum : 106
+ Score        : 4
+
+*** 1 second ago ***
+ numcnt : 69251 
+ One_line Sum : 130
+ Score        : 27
+
+*** 2 second ago ***
+ numcnt : 137761 
+ One_line Sum : 130
+ Score        : 27
+
+*** 3 second ago ***
+ numcnt : 204278 
+ One_line Sum : 130
+ Score        : 27
+
+*** 4 second ago ***
+ numcnt : 270162 
+ One_line Sum : 130
+ Score        : 27
+
+*** 5 second ago ***
+ numcnt : 336518 
+ One_line Sum : 130
+ Score        : 27
+
+*** 6 second ago ***
+ numcnt : 403339 
+ One_line Sum : 130
+ Score        : 33
+
+*** 7 second ago ***
+ numcnt : 471750 
+ One_line Sum : 130
+ Score        : 33
+
+*** 8 second ago ***
+ numcnt : 535795 
+ One_line Sum : 130
+ Score        : 33
+
+*** 9 second ago ***
+ numcnt : 602220 
+ One_line Sum : 130
+ Score        : 33
+
+*** 10 second ago ***
+ numcnt : 668480 
+ One_line Sum : 130
+ Score        : 36
+
+*** 11 second ago ***
+ numcnt : 737924 
+ One_line Sum : 130
+ Score        : 37
+
+*** 12 second ago ***
+ numcnt : 807947 
+ One_line Sum : 130
+ Score        : 38
+
+*** 13 second ago ***
+ numcnt : 879573 
+ One_line Sum : 130
+ Score        : 38
+
+*** 14 second ago ***
+ numcnt : 951279 
+ One_line Sum : 130
+ Score        : 38
+
+*** 15 second ago ***
+ numcnt : 1022439 
+ One_line Sum : 130
+ Score        : 38
+
+*** 16 second ago ***
+ numcnt : 1094460 
+ One_line Sum : 130
+ Score        : 38
+
+*** 17 second ago ***
+ numcnt : 1165218 
+ One_line Sum : 130
+ Score        : 38
+
+*** 18 second ago ***
+ numcnt : 1234784 
+ One_line Sum : 130
+ Score        : 38
+
+*** 19 second ago ***
+ numcnt : 1300434 
+ One_line Sum : 130
+ Score        : 38
+
+*** 20 second ago ***
+ numcnt : 1368380 
+ One_line Sum : 130
+ Score        : 38
+
+*** 21 second ago ***
+ numcnt : 1436719 
+ One_line Sum : 130
+ Score        : 38
+
+ Best is this. 
+ One_line Sum : 130
+ Score        : 42
+ 26  38  55  11 
+ 15  53  17  45 
+ 35  36  12  47 
+ 54   3  46  27 
+
+ 40   2  39  49 
+ 30  37   1  62 
+ 10  48  28  57 
+  4  43  23  25 
+
+ 42  31   7  50 
+ 44  21  60   5 
+ 58  14  34  24 
+  6  64   9  51 
+
+ 22  59   8  41 
+ 63  19  52  18 
+ 29  32  56  13 
+ 16  20  61  33 
+
+============================
+x = 16
+
+*** 0 second ago ***
+ numcnt : 1 
+ One_line Sum : 106
+ Score        : 3
+
+*** 1 second ago ***
+ numcnt : 68196 
+ One_line Sum : 142
+ Score        : 29
+
+*** 2 second ago ***
+ numcnt : 135308 
+ One_line Sum : 142
+ Score        : 29
+
+*** 3 second ago ***
+ numcnt : 203438 
+ One_line Sum : 142
+ Score        : 29
+
+*** 4 second ago ***
+ numcnt : 270906 
+ One_line Sum : 142
+ Score        : 29
+
+*** 5 second ago ***
+ numcnt : 337982 
+ One_line Sum : 142
+ Score        : 29
+
+*** 6 second ago ***
+ numcnt : 405880 
+ One_line Sum : 142
+ Score        : 29
+
+*** 7 second ago ***
+ numcnt : 471393 
+ One_line Sum : 142
+ Score        : 29
+
+*** 8 second ago ***
+ numcnt : 539385 
+ One_line Sum : 142
+ Score        : 29
+
+*** 9 second ago ***
+ numcnt : 606975 
+ One_line Sum : 142
+ Score        : 29
+
+*** 10 second ago ***
+ numcnt : 674972 
+ One_line Sum : 142
+ Score        : 29
+
+*** 11 second ago ***
+ numcnt : 745645 
+ One_line Sum : 142
+ Score        : 29
+
+*** 12 second ago ***
+ numcnt : 815673 
+ One_line Sum : 142
+ Score        : 31
+
+*** 13 second ago ***
+ numcnt : 886945 
+ One_line Sum : 142
+ Score        : 31
+
+*** 14 second ago ***
+ numcnt : 950000 
+ One_line Sum : 142
+ Score        : 34
+
+*** 15 second ago ***
+ numcnt : 1020367 
+ One_line Sum : 142
+ Score        : 34
+
+*** 16 second ago ***
+ numcnt : 1088901 
+ One_line Sum : 142
+ Score        : 34
+
+*** 17 second ago ***
+ numcnt : 1156988 
+ One_line Sum : 142
+ Score        : 34
+
+*** 18 second ago ***
+ numcnt : 1224927 
+ One_line Sum : 142
+ Score        : 34
+
+*** 19 second ago ***
+ numcnt : 1294334 
+ One_line Sum : 142
+ Score        : 34
+
+*** 20 second ago ***
+ numcnt : 1364448 
+ One_line Sum : 142
+ Score        : 34
+
+*** 21 second ago ***
+ numcnt : 1434360 
+ One_line Sum : 142
+ Score        : 34
+
+ Best is this. 
+ One_line Sum : 130
+ Score        : 42
+ 26  38  55  11 
+ 15  53  17  45 
+ 35  36  12  47 
+ 54   3  46  27 
+
+ 40   2  39  49 
+ 30  37   1  62 
+ 10  48  28  57 
+  4  43  23  25 
+
+ 42  31   7  50 
+ 44  21  60   5 
+ 58  14  34  24 
+  6  64   9  51 
+
+ 22  59   8  41 
+ 63  19  52  18 
+ 29  32  56  13 
+ 16  20  61  33 
+
+============================
+x = 17
+
+*** 0 second ago ***
+ numcnt : 1 
+ One_line Sum : 106
+ Score        : 3
+
+*** 1 second ago ***
+ numcnt : 67835 
+ One_line Sum : 166
+ Score        : 25
+
+*** 2 second ago ***
+ numcnt : 137436 
+ One_line Sum : 166
+ Score        : 31
+
+*** 3 second ago ***
+ numcnt : 206865 
+ One_line Sum : 166
+ Score        : 31
+
+*** 4 second ago ***
+ numcnt : 276116 
+ One_line Sum : 166
+ Score        : 31
+
+*** 5 second ago ***
+ numcnt : 344596 
+ One_line Sum : 166
+ Score        : 31
+
+*** 6 second ago ***
+ numcnt : 414020 
+ One_line Sum : 166
+ Score        : 31
+
+*** 7 second ago ***
+ numcnt : 483044 
+ One_line Sum : 166
+ Score        : 31
+
+*** 8 second ago ***
+ numcnt : 552650 
+ One_line Sum : 166
+ Score        : 31
+
+*** 9 second ago ***
+ numcnt : 621548 
+ One_line Sum : 166
+ Score        : 31
+
+*** 10 second ago ***
+ numcnt : 690276 
+ One_line Sum : 166
+ Score        : 31
+
+*** 11 second ago ***
+ numcnt : 759516 
+ One_line Sum : 166
+ Score        : 31
+
+*** 12 second ago ***
+ numcnt : 828544 
+ One_line Sum : 166
+ Score        : 31
+
+*** 13 second ago ***
+ numcnt : 897832 
+ One_line Sum : 166
+ Score        : 31
+
+*** 14 second ago ***
+ numcnt : 967473 
+ One_line Sum : 166
+ Score        : 31
+
+*** 15 second ago ***
+ numcnt : 1035479 
+ One_line Sum : 166
+ Score        : 31
+
+*** 16 second ago ***
+ numcnt : 1104938 
+ One_line Sum : 166
+ Score        : 31
+
+*** 17 second ago ***
+ numcnt : 1173821 
+ One_line Sum : 166
+ Score        : 31
+
+*** 18 second ago ***
+ numcnt : 1242368 
+ One_line Sum : 166
+ Score        : 31
+
+*** 19 second ago ***
+ numcnt : 1310074 
+ One_line Sum : 166
+ Score        : 31
+
+*** 20 second ago ***
+ numcnt : 1379144 
+ One_line Sum : 166
+ Score        : 31
+
+*** 21 second ago ***
+ numcnt : 1447372 
+ One_line Sum : 166
+ Score        : 31
+
+ Best is this. 
+ One_line Sum : 130
+ Score        : 42
+ 26  38  55  11 
+ 15  53  17  45 
+ 35  36  12  47 
+ 54   3  46  27 
+
+ 40   2  39  49 
+ 30  37   1  62 
+ 10  48  28  57 
+  4  43  23  25 
+
+ 42  31   7  50 
+ 44  21  60   5 
+ 58  14  34  24 
+  6  64   9  51 
+
+ 22  59   8  41 
+ 63  19  52  18 
+ 29  32  56  13 
+ 16  20  61  33 
+
+============================
+x = 18
+
+*** 0 second ago ***
+ numcnt : 1 
+ One_line Sum : 136
+ Score        : 4
+
+*** 1 second ago ***
+ numcnt : 69069 
+ One_line Sum : 104
+ Score        : 26
+
+*** 2 second ago ***
+ numcnt : 137509 
+ One_line Sum : 104
+ Score        : 31
+
+*** 3 second ago ***
+ numcnt : 208161 
+ One_line Sum : 104
+ Score        : 31
+
+*** 4 second ago ***
+ numcnt : 276918 
+ One_line Sum : 104
+ Score        : 31
+
+*** 5 second ago ***
+ numcnt : 344188 
+ One_line Sum : 104
+ Score        : 31
+
+*** 6 second ago ***
+ numcnt : 411177 
+ One_line Sum : 104
+ Score        : 31
+
+*** 7 second ago ***
+ numcnt : 480173 
+ One_line Sum : 104
+ Score        : 32
+
+*** 8 second ago ***
+ numcnt : 549095 
+ One_line Sum : 104
+ Score        : 32
+
+*** 9 second ago ***
+ numcnt : 618238 
+ One_line Sum : 104
+ Score        : 32
+
+*** 10 second ago ***
+ numcnt : 687518 
+ One_line Sum : 104
+ Score        : 32
+
+*** 11 second ago ***
+ numcnt : 756557 
+ One_line Sum : 104
+ Score        : 32
+
+*** 12 second ago ***
+ numcnt : 825917 
+ One_line Sum : 104
+ Score        : 34
+
+*** 13 second ago ***
+ numcnt : 894406 
+ One_line Sum : 104
+ Score        : 34
+
+*** 14 second ago ***
+ numcnt : 963305 
+ One_line Sum : 104
+ Score        : 34
+
+*** 15 second ago ***
+ numcnt : 1032075 
+ One_line Sum : 104
+ Score        : 34
+
+*** 16 second ago ***
+ numcnt : 1100022 
+ One_line Sum : 104
+ Score        : 34
+
+*** 17 second ago ***
+ numcnt : 1169131 
+ One_line Sum : 104
+ Score        : 34
+
+*** 18 second ago ***
+ numcnt : 1240006 
+ One_line Sum : 104
+ Score        : 34
+
+*** 19 second ago ***
+ numcnt : 1311684 
+ One_line Sum : 104
+ Score        : 34
+
+*** 20 second ago ***
+ numcnt : 1381526 
+ One_line Sum : 104
+ Score        : 34
+
+*** 21 second ago ***
+ numcnt : 1452314 
+ One_line Sum : 104
+ Score        : 34
+
+ Best is this. 
+ One_line Sum : 130
+ Score        : 42
+ 26  38  55  11 
+ 15  53  17  45 
+ 35  36  12  47 
+ 54   3  46  27 
+
+ 40   2  39  49 
+ 30  37   1  62 
+ 10  48  28  57 
+  4  43  23  25 
+
+ 42  31   7  50 
+ 44  21  60   5 
+ 58  14  34  24 
+  6  64   9  51 
+
+ 22  59   8  41 
+ 63  19  52  18 
+ 29  32  56  13 
+ 16  20  61  33 
+
+============================
+x = 19
+
+*** 0 second ago ***
+ numcnt : 1 
+ One_line Sum : 106
+ Score        : 3
+
+*** 1 second ago ***
+ numcnt : 67808 
+ One_line Sum : 131
+ Score        : 31
+
+*** 2 second ago ***
+ numcnt : 136828 
+ One_line Sum : 131
+ Score        : 31
+
+*** 3 second ago ***
+ numcnt : 206549 
+ One_line Sum : 131
+ Score        : 31
+
+*** 4 second ago ***
+ numcnt : 275691 
+ One_line Sum : 131
+ Score        : 31
+
+*** 5 second ago ***
+ numcnt : 345223 
+ One_line Sum : 131
+ Score        : 31
+
+*** 6 second ago ***
+ numcnt : 414313 
+ One_line Sum : 131
+ Score        : 31
+
+*** 7 second ago ***
+ numcnt : 483596 
+ One_line Sum : 131
+ Score        : 31
+
+*** 8 second ago ***
+ numcnt : 552676 
+ One_line Sum : 131
+ Score        : 31
+
+*** 9 second ago ***
+ numcnt : 620907 
+ One_line Sum : 131
+ Score        : 31
+
+*** 10 second ago ***
+ numcnt : 686619 
+ One_line Sum : 131
+ Score        : 31
+
+*** 11 second ago ***
+ numcnt : 754487 
+ One_line Sum : 131
+ Score        : 31
+
+*** 12 second ago ***
+ numcnt : 821818 
+ One_line Sum : 131
+ Score        : 31
+
+*** 13 second ago ***
+ numcnt : 890929 
+ One_line Sum : 131
+ Score        : 31
+
+*** 14 second ago ***
+ numcnt : 958965 
+ One_line Sum : 131
+ Score        : 31
+
+*** 15 second ago ***
+ numcnt : 1028026 
+ One_line Sum : 131
+ Score        : 32
+
+*** 16 second ago ***
+ numcnt : 1097242 
+ One_line Sum : 131
+ Score        : 33
+
+*** 17 second ago ***
+ numcnt : 1166675 
+ One_line Sum : 131
+ Score        : 33
+
+*** 18 second ago ***
+ numcnt : 1233092 
+ One_line Sum : 131
+ Score        : 33
+
+*** 19 second ago ***
+ numcnt : 1299763 
+ One_line Sum : 131
+ Score        : 33
+
+*** 20 second ago ***
+ numcnt : 1367881 
+ One_line Sum : 131
+ Score        : 33
+
+*** 21 second ago ***
+ numcnt : 1438357 
+ One_line Sum : 131
+ Score        : 34
+
+ Best is this. 
+ One_line Sum : 130
+ Score        : 42
+ 26  38  55  11 
+ 15  53  17  45 
+ 35  36  12  47 
+ 54   3  46  27 
+
+ 40   2  39  49 
+ 30  37   1  62 
+ 10  48  28  57 
+  4  43  23  25 
+
+ 42  31   7  50 
+ 44  21  60   5 
+ 58  14  34  24 
+  6  64   9  51 
+
+ 22  59   8  41 
+ 63  19  52  18 
+ 29  32  56  13 
+ 16  20  61  33 
+
+============================
+x = 20
+
+*** 0 second ago ***
+ numcnt : 1 
+ One_line Sum : 106
+ Score        : 4
+
+*** 1 second ago ***
+ numcnt : 68708 
+ One_line Sum : 106
+ Score        : 29
+
+*** 2 second ago ***
+ numcnt : 137419 
+ One_line Sum : 106
+ Score        : 29
+
+*** 3 second ago ***
+ numcnt : 208674 
+ One_line Sum : 106
+ Score        : 29
+
+*** 4 second ago ***
+ numcnt : 275497 
+ One_line Sum : 106
+ Score        : 29
+
+*** 5 second ago ***
+ numcnt : 342096 
+ One_line Sum : 106
+ Score        : 29
+
+*** 6 second ago ***
+ numcnt : 409862 
+ One_line Sum : 106
+ Score        : 29
+
+*** 7 second ago ***
+ numcnt : 473423 
+ One_line Sum : 106
+ Score        : 29
+
+*** 8 second ago ***
+ numcnt : 540642 
+ One_line Sum : 106
+ Score        : 29
+
+*** 9 second ago ***
+ numcnt : 610543 
+ One_line Sum : 106
+ Score        : 29
+
+*** 10 second ago ***
+ numcnt : 677850 
+ One_line Sum : 106
+ Score        : 29
+
+*** 11 second ago ***
+ numcnt : 748728 
+ One_line Sum : 106
+ Score        : 30
+
+*** 12 second ago ***
+ numcnt : 820083 
+ One_line Sum : 106
+ Score        : 30
+
+*** 13 second ago ***
+ numcnt : 891762 
+ One_line Sum : 106
+ Score        : 32
+
+*** 14 second ago ***
+ numcnt : 962436 
+ One_line Sum : 106
+ Score        : 32
+
+*** 15 second ago ***
+ numcnt : 1032889 
+ One_line Sum : 106
+ Score        : 32
+
+*** 16 second ago ***
+ numcnt : 1103220 
+ One_line Sum : 106
+ Score        : 32
+
+*** 17 second ago ***
+ numcnt : 1174225 
+ One_line Sum : 106
+ Score        : 32
+
+*** 18 second ago ***
+ numcnt : 1244834 
+ One_line Sum : 106
+ Score        : 32
+
+*** 19 second ago ***
+ numcnt : 1316170 
+ One_line Sum : 106
+ Score        : 32
+
+*** 20 second ago ***
+ numcnt : 1386717 
+ One_line Sum : 106
+ Score        : 32
+
+*** 21 second ago ***
+ numcnt : 1455360 
+ One_line Sum : 106
+ Score        : 32
+
+ Best is this. 
+ One_line Sum : 130
+ Score        : 42
+ 26  38  55  11 
+ 15  53  17  45 
+ 35  36  12  47 
+ 54   3  46  27 
+
+ 40   2  39  49 
+ 30  37   1  62 
+ 10  48  28  57 
+  4  43  23  25 
+
+ 42  31   7  50 
+ 44  21  60   5 
+ 58  14  34  24 
+  6  64   9  51 
+
+ 22  59   8  41 
+ 63  19  52  18 
+ 29  32  56  13 
+ 16  20  61  33 
+
+============================
+x = 21
+
+*** 0 second ago ***
+ numcnt : 1 
+ One_line Sum : 106
+ Score        : 3
+
+*** 1 second ago ***
+ numcnt : 66293 
+ One_line Sum : 112
+ Score        : 29
+
+*** 2 second ago ***
+ numcnt : 131943 
+ One_line Sum : 112
+ Score        : 29
+
+*** 3 second ago ***
+ numcnt : 195871 
+ One_line Sum : 112
+ Score        : 29
+
+*** 4 second ago ***
+ numcnt : 265348 
+ One_line Sum : 112
+ Score        : 29
+
+*** 5 second ago ***
+ numcnt : 333616 
+ One_line Sum : 112
+ Score        : 29
+
+*** 6 second ago ***
+ numcnt : 402789 
+ One_line Sum : 112
+ Score        : 29
+
+*** 7 second ago ***
+ numcnt : 466426 
+ One_line Sum : 112
+ Score        : 29
+
+*** 8 second ago ***
+ numcnt : 533222 
+ One_line Sum : 112
+ Score        : 29
+
+*** 9 second ago ***
+ numcnt : 600263 
+ One_line Sum : 112
+ Score        : 29
+
+*** 10 second ago ***
+ numcnt : 667384 
+ One_line Sum : 112
+ Score        : 32
+
+*** 11 second ago ***
+ numcnt : 738575 
+ One_line Sum : 112
+ Score        : 32
+
+*** 12 second ago ***
+ numcnt : 807956 
+ One_line Sum : 112
+ Score        : 32
+
+*** 13 second ago ***
+ numcnt : 877980 
+ One_line Sum : 112
+ Score        : 32
+
+*** 14 second ago ***
+ numcnt : 948433 
+ One_line Sum : 112
+ Score        : 32
+
+*** 15 second ago ***
+ numcnt : 1019648 
+ One_line Sum : 112
+ Score        : 32
+
+*** 16 second ago ***
+ numcnt : 1090445 
+ One_line Sum : 112
+ Score        : 32
+
+*** 17 second ago ***
+ numcnt : 1160824 
+ One_line Sum : 112
+ Score        : 32
+
+*** 23 second ago ***
+ numcnt : 1160825 
+ One_line Sum : 112
+ Score        : 32
+
+*** 24 second ago ***
+ numcnt : 1189645 
+ One_line Sum : 112
+ Score        : 32
+
+*** 25 second ago ***
+ numcnt : 1262123 
+ One_line Sum : 112
+ Score        : 32
+
+*** 26 second ago ***
+ numcnt : 1333113 
+ One_line Sum : 112
+ Score        : 32
+
+*** 27 second ago ***
+ numcnt : 1404361 
+ One_line Sum : 112
+ Score        : 32
+
+*** 28 second ago ***
+ numcnt : 1474770 
+ One_line Sum : 112
+ Score        : 32
+
+ Best is this. 
+ One_line Sum : 130
+ Score        : 42
+ 26  38  55  11 
+ 15  53  17  45 
+ 35  36  12  47 
+ 54   3  46  27 
+
+ 40   2  39  49 
+ 30  37   1  62 
+ 10  48  28  57 
+  4  43  23  25 
+
+ 42  31   7  50 
+ 44  21  60   5 
+ 58  14  34  24 
+  6  64   9  51 
+
+ 22  59   8  41 
+ 63  19  52  18 
+ 29  32  56  13 
+ 16  20  61  33 
+
+============================
+x = 22
+
+*** 0 second ago ***
+ numcnt : 1 
+ One_line Sum : 106
+ Score        : 3
+
+*** 1 second ago ***
+ numcnt : 70952 
+ One_line Sum : 123
+ Score        : 31
+
+*** 2 second ago ***
+ numcnt : 142422 
+ One_line Sum : 123
+ Score        : 31
+
+*** 3 second ago ***
+ numcnt : 213676 
+ One_line Sum : 123
+ Score        : 31
+
+*** 4 second ago ***
+ numcnt : 283641 
+ One_line Sum : 123
+ Score        : 31
+
+*** 5 second ago ***
+ numcnt : 354499 
+ One_line Sum : 123
+ Score        : 31
+
+*** 6 second ago ***
+ numcnt : 425147 
+ One_line Sum : 123
+ Score        : 31
+
+*** 7 second ago ***
+ numcnt : 495128 
+ One_line Sum : 123
+ Score        : 31
+
+*** 8 second ago ***
+ numcnt : 566071 
+ One_line Sum : 123
+ Score        : 31
+
+*** 9 second ago ***
+ numcnt : 635877 
+ One_line Sum : 123
+ Score        : 33
+
+*** 10 second ago ***
+ numcnt : 704231 
+ One_line Sum : 123
+ Score        : 33
+
+*** 11 second ago ***
+ numcnt : 774987 
+ One_line Sum : 123
+ Score        : 33
+
+*** 12 second ago ***
+ numcnt : 845983 
+ One_line Sum : 123
+ Score        : 33
+
+*** 13 second ago ***
+ numcnt : 916421 
+ One_line Sum : 123
+ Score        : 33
+
+*** 14 second ago ***
+ numcnt : 987863 
+ One_line Sum : 123
+ Score        : 33
+
+*** 15 second ago ***
+ numcnt : 1058790 
+ One_line Sum : 123
+ Score        : 33
+
+*** 16 second ago ***
+ numcnt : 1130822 
+ One_line Sum : 123
+ Score        : 33
+
+*** 17 second ago ***
+ numcnt : 1202260 
+ One_line Sum : 123
+ Score        : 33
+
+*** 18 second ago ***
+ numcnt : 1273568 
+ One_line Sum : 123
+ Score        : 33
+
+*** 19 second ago ***
+ numcnt : 1343790 
+ One_line Sum : 123
+ Score        : 33
+
+*** 20 second ago ***
+ numcnt : 1414220 
+ One_line Sum : 123
+ Score        : 33
+
+*** 21 second ago ***
+ numcnt : 1483648 
+ One_line Sum : 123
+ Score        : 33
+
+ Best is this. 
+ One_line Sum : 130
+ Score        : 42
+ 26  38  55  11 
+ 15  53  17  45 
+ 35  36  12  47 
+ 54   3  46  27 
+
+ 40   2  39  49 
+ 30  37   1  62 
+ 10  48  28  57 
+  4  43  23  25 
+
+ 42  31   7  50 
+ 44  21  60   5 
+ 58  14  34  24 
+  6  64   9  51 
+
+ 22  59   8  41 
+ 63  19  52  18 
+ 29  32  56  13 
+ 16  20  61  33 
+
+============================
+x = 23
+
+*** 0 second ago ***
+ numcnt : 1 
+ One_line Sum : 106
+ Score        : 3
+
+*** 1 second ago ***
+ numcnt : 69302 
+ One_line Sum : 132
+ Score        : 30
+
+*** 2 second ago ***
+ numcnt : 138477 
+ One_line Sum : 132
+ Score        : 30
+
+*** 3 second ago ***
+ numcnt : 208021 
+ One_line Sum : 132
+ Score        : 30
+
+*** 4 second ago ***
+ numcnt : 276466 
+ One_line Sum : 132
+ Score        : 30
+
+*** 5 second ago ***
+ numcnt : 345180 
+ One_line Sum : 132
+ Score        : 30
+
+*** 6 second ago ***
+ numcnt : 410336 
+ One_line Sum : 132
+ Score        : 30
+
+*** 7 second ago ***
+ numcnt : 477691 
+ One_line Sum : 132
+ Score        : 33
+
+*** 8 second ago ***
+ numcnt : 546762 
+ One_line Sum : 132
+ Score        : 33
+
+*** 9 second ago ***
+ numcnt : 617316 
+ One_line Sum : 132
+ Score        : 37
+
+*** 10 second ago ***
+ numcnt : 684455 
+ One_line Sum : 132
+ Score        : 38
+
+*** 11 second ago ***
+ numcnt : 751647 
+ One_line Sum : 132
+ Score        : 38
+
+*** 12 second ago ***
+ numcnt : 820609 
+ One_line Sum : 132
+ Score        : 38
+
+*** 13 second ago ***
+ numcnt : 888844 
+ One_line Sum : 132
+ Score        : 38
+
+*** 14 second ago ***
+ numcnt : 957530 
+ One_line Sum : 132
+ Score        : 38
+
+*** 15 second ago ***
+ numcnt : 1025501 
+ One_line Sum : 132
+ Score        : 38
+
+*** 16 second ago ***
+ numcnt : 1094705 
+ One_line Sum : 132
+ Score        : 38
+
+*** 17 second ago ***
+ numcnt : 1164574 
+ One_line Sum : 132
+ Score        : 38
+
+*** 18 second ago ***
+ numcnt : 1233733 
+ One_line Sum : 132
+ Score        : 38
+
+*** 19 second ago ***
+ numcnt : 1302599 
+ One_line Sum : 132
+ Score        : 38
+
+*** 20 second ago ***
+ numcnt : 1371675 
+ One_line Sum : 132
+ Score        : 38
+
+*** 21 second ago ***
+ numcnt : 1440727 
+ One_line Sum : 132
+ Score        : 38
+
+ Best is this. 
+ One_line Sum : 130
+ Score        : 42
+ 26  38  55  11 
+ 15  53  17  45 
+ 35  36  12  47 
+ 54   3  46  27 
+
+ 40   2  39  49 
+ 30  37   1  62 
+ 10  48  28  57 
+  4  43  23  25 
+
+ 42  31   7  50 
+ 44  21  60   5 
+ 58  14  34  24 
+  6  64   9  51 
+
+ 22  59   8  41 
+ 63  19  52  18 
+ 29  32  56  13 
+ 16  20  61  33 
+
+============================
+x = 24
+
+*** 0 second ago ***
+ numcnt : 1 
+ One_line Sum : 106
+ Score        : 3
+
+*** 1 second ago ***
+ numcnt : 68981 
+ One_line Sum : 106
+ Score        : 30
+
+*** 2 second ago ***
+ numcnt : 137653 
+ One_line Sum : 106
+ Score        : 30
+
+*** 3 second ago ***
+ numcnt : 206468 
+ One_line Sum : 106
+ Score        : 30
+
+*** 4 second ago ***
+ numcnt : 275320 
+ One_line Sum : 106
+ Score        : 30
+
+*** 5 second ago ***
+ numcnt : 343238 
+ One_line Sum : 106
+ Score        : 31
+
+*** 6 second ago ***
+ numcnt : 411544 
+ One_line Sum : 106
+ Score        : 31
+
+*** 7 second ago ***
+ numcnt : 479931 
+ One_line Sum : 106
+ Score        : 31
+
+*** 8 second ago ***
+ numcnt : 549129 
+ One_line Sum : 106
+ Score        : 31
+
+*** 9 second ago ***
+ numcnt : 616673 
+ One_line Sum : 106
+ Score        : 31
+
+*** 10 second ago ***
+ numcnt : 684546 
+ One_line Sum : 106
+ Score        : 31
+
+*** 11 second ago ***
+ numcnt : 752961 
+ One_line Sum : 106
+ Score        : 31
+
+*** 12 second ago ***
+ numcnt : 821396 
+ One_line Sum : 106
+ Score        : 32
+
+*** 13 second ago ***
+ numcnt : 888872 
+ One_line Sum : 106
+ Score        : 32
+
+*** 14 second ago ***
+ numcnt : 957337 
+ One_line Sum : 106
+ Score        : 34
+
+*** 15 second ago ***
+ numcnt : 1027790 
+ One_line Sum : 106
+ Score        : 34
+
+*** 16 second ago ***
+ numcnt : 1092970 
+ One_line Sum : 106
+ Score        : 34
+
+*** 17 second ago ***
+ numcnt : 1161768 
+ One_line Sum : 106
+ Score        : 34
+
+*** 18 second ago ***
+ numcnt : 1231186 
+ One_line Sum : 106
+ Score        : 34
+
+*** 19 second ago ***
+ numcnt : 1300843 
+ One_line Sum : 106
+ Score        : 34
+
+*** 20 second ago ***
+ numcnt : 1369853 
+ One_line Sum : 106
+ Score        : 34
+
+*** 21 second ago ***
+ numcnt : 1436281 
+ One_line Sum : 106
+ Score        : 34
+
+ Best is this. 
+ One_line Sum : 130
+ Score        : 42
+ 26  38  55  11 
+ 15  53  17  45 
+ 35  36  12  47 
+ 54   3  46  27 
+
+ 40   2  39  49 
+ 30  37   1  62 
+ 10  48  28  57 
+  4  43  23  25 
+
+ 42  31   7  50 
+ 44  21  60   5 
+ 58  14  34  24 
+  6  64   9  51 
+
+ 22  59   8  41 
+ 63  19  52  18 
+ 29  32  56  13 
+ 16  20  61  33 
+
+============================
+x = 25
+
+*** 0 second ago ***
+ numcnt : 1 
+ One_line Sum : 106
+ Score        : 3
+
+*** 1 second ago ***
+ numcnt : 68400 
+ One_line Sum : 128
+ Score        : 32
+
+*** 2 second ago ***
+ numcnt : 137132 
+ One_line Sum : 128
+ Score        : 34
+
+*** 3 second ago ***
+ numcnt : 204951 
+ One_line Sum : 128
+ Score        : 35
+
+*** 4 second ago ***
+ numcnt : 274301 
+ One_line Sum : 128
+ Score        : 36
+
+*** 5 second ago ***
+ numcnt : 342037 
+ One_line Sum : 128
+ Score        : 36
+
+*** 6 second ago ***
+ numcnt : 411959 
+ One_line Sum : 128
+ Score        : 36
+
+*** 7 second ago ***
+ numcnt : 481282 
+ One_line Sum : 128
+ Score        : 36
+
+*** 8 second ago ***
+ numcnt : 550468 
+ One_line Sum : 128
+ Score        : 36
+
+*** 9 second ago ***
+ numcnt : 620256 
+ One_line Sum : 128
+ Score        : 36
+
+*** 10 second ago ***
+ numcnt : 689930 
+ One_line Sum : 128
+ Score        : 36
+
+*** 11 second ago ***
+ numcnt : 758580 
+ One_line Sum : 128
+ Score        : 36
+
+*** 12 second ago ***
+ numcnt : 826821 
+ One_line Sum : 128
+ Score        : 36
+
+*** 13 second ago ***
+ numcnt : 896496 
+ One_line Sum : 128
+ Score        : 36
+
+*** 14 second ago ***
+ numcnt : 965139 
+ One_line Sum : 128
+ Score        : 36
+
+*** 15 second ago ***
+ numcnt : 1036764 
+ One_line Sum : 128
+ Score        : 36
+
+*** 16 second ago ***
+ numcnt : 1106097 
+ One_line Sum : 128
+ Score        : 36
+
+*** 17 second ago ***
+ numcnt : 1175020 
+ One_line Sum : 128
+ Score        : 36
+
+*** 18 second ago ***
+ numcnt : 1244303 
+ One_line Sum : 128
+ Score        : 36
+
+*** 19 second ago ***
+ numcnt : 1313683 
+ One_line Sum : 128
+ Score        : 36
+
+*** 20 second ago ***
+ numcnt : 1382070 
+ One_line Sum : 128
+ Score        : 36
+
+*** 21 second ago ***
+ numcnt : 1436451 
+ One_line Sum : 128
+ Score        : 36
+
+*** 22 second ago ***
+ numcnt : 1495682 
+ One_line Sum : 128
+ Score        : 36
+
+ Best is this. 
+ One_line Sum : 130
+ Score        : 42
+ 26  38  55  11 
+ 15  53  17  45 
+ 35  36  12  47 
+ 54   3  46  27 
+
+ 40   2  39  49 
+ 30  37   1  62 
+ 10  48  28  57 
+  4  43  23  25 
+
+ 42  31   7  50 
+ 44  21  60   5 
+ 58  14  34  24 
+  6  64   9  51 
+
+ 22  59   8  41 
+ 63  19  52  18 
+ 29  32  56  13 
+ 16  20  61  33 
+
+============================
+x = 26
+
+*** 0 second ago ***
+ numcnt : 1 
+ One_line Sum : 106
+ Score        : 3
+
+*** 1 second ago ***
+ numcnt : 65067 
+ One_line Sum : 132
+ Score        : 28
+
+*** 2 second ago ***
+ numcnt : 134761 
+ One_line Sum : 132
+ Score        : 28
+
+*** 3 second ago ***
+ numcnt : 203891 
+ One_line Sum : 132
+ Score        : 28
+
+*** 4 second ago ***
+ numcnt : 272275 
+ One_line Sum : 132
+ Score        : 28
+
+*** 5 second ago ***
+ numcnt : 340271 
+ One_line Sum : 132
+ Score        : 28
+
+*** 6 second ago ***
+ numcnt : 406423 
+ One_line Sum : 132
+ Score        : 28
+
+*** 7 second ago ***
+ numcnt : 470264 
+ One_line Sum : 132
+ Score        : 28
+
+*** 8 second ago ***
+ numcnt : 534872 
+ One_line Sum : 132
+ Score        : 28
+
+*** 9 second ago ***
+ numcnt : 604304 
+ One_line Sum : 132
+ Score        : 32
+
+*** 10 second ago ***
+ numcnt : 675552 
+ One_line Sum : 132
+ Score        : 34
+
+*** 11 second ago ***
+ numcnt : 747254 
+ One_line Sum : 132
+ Score        : 34
+
+*** 12 second ago ***
+ numcnt : 816350 
+ One_line Sum : 132
+ Score        : 34
+
+*** 13 second ago ***
+ numcnt : 885890 
+ One_line Sum : 132
+ Score        : 34
+
+*** 14 second ago ***
+ numcnt : 956105 
+ One_line Sum : 132
+ Score        : 34
+
+*** 15 second ago ***
+ numcnt : 1026327 
+ One_line Sum : 132
+ Score        : 34
+
+*** 16 second ago ***
+ numcnt : 1096124 
+ One_line Sum : 132
+ Score        : 34
+
+*** 17 second ago ***
+ numcnt : 1166852 
+ One_line Sum : 132
+ Score        : 34
+
+*** 18 second ago ***
+ numcnt : 1234571 
+ One_line Sum : 132
+ Score        : 34
+
+*** 19 second ago ***
+ numcnt : 1300278 
+ One_line Sum : 132
+ Score        : 34
+
+*** 20 second ago ***
+ numcnt : 1367439 
+ One_line Sum : 132
+ Score        : 34
+
+*** 21 second ago ***
+ numcnt : 1435306 
+ One_line Sum : 132
+ Score        : 34
+
+ Best is this. 
+ One_line Sum : 130
+ Score        : 42
+ 26  38  55  11 
+ 15  53  17  45 
+ 35  36  12  47 
+ 54   3  46  27 
+
+ 40   2  39  49 
+ 30  37   1  62 
+ 10  48  28  57 
+  4  43  23  25 
+
+ 42  31   7  50 
+ 44  21  60   5 
+ 58  14  34  24 
+  6  64   9  51 
+
+ 22  59   8  41 
+ 63  19  52  18 
+ 29  32  56  13 
+ 16  20  61  33 
+
+============================
+x = 27
+
+*** 0 second ago ***
+ numcnt : 1 
+ One_line Sum : 106
+ Score        : 3
+
+*** 1 second ago ***
+ numcnt : 68114 
+ One_line Sum : 148
+ Score        : 32
+
+*** 2 second ago ***
+ numcnt : 139580 
+ One_line Sum : 148
+ Score        : 33
+
+*** 3 second ago ***
+ numcnt : 210068 
+ One_line Sum : 148
+ Score        : 33
+
+*** 4 second ago ***
+ numcnt : 275272 
+ One_line Sum : 148
+ Score        : 34
+
+*** 5 second ago ***
+ numcnt : 342159 
+ One_line Sum : 148
+ Score        : 36
+
+*** 6 second ago ***
+ numcnt : 410738 
+ One_line Sum : 148
+ Score        : 36
+
+*** 7 second ago ***
+ numcnt : 479937 
+ One_line Sum : 148
+ Score        : 36
+
+*** 8 second ago ***
+ numcnt : 546974 
+ One_line Sum : 148
+ Score        : 36
+
+*** 9 second ago ***
+ numcnt : 615451 
+ One_line Sum : 148
+ Score        : 36
+
+*** 10 second ago ***
+ numcnt : 685634 
+ One_line Sum : 148
+ Score        : 36
+
+*** 11 second ago ***
+ numcnt : 755723 
+ One_line Sum : 148
+ Score        : 36
+
+*** 12 second ago ***
+ numcnt : 822187 
+ One_line Sum : 148
+ Score        : 36
+
+*** 13 second ago ***
+ numcnt : 891135 
+ One_line Sum : 148
+ Score        : 36
+
+*** 14 second ago ***
+ numcnt : 959549 
+ One_line Sum : 148
+ Score        : 36
+
+*** 15 second ago ***
+ numcnt : 1028704 
+ One_line Sum : 148
+ Score        : 36
+
+*** 16 second ago ***
+ numcnt : 1096211 
+ One_line Sum : 148
+ Score        : 36
+
+*** 17 second ago ***
+ numcnt : 1165372 
+ One_line Sum : 148
+ Score        : 36
+
+*** 18 second ago ***
+ numcnt : 1235428 
+ One_line Sum : 148
+ Score        : 36
+
+*** 19 second ago ***
+ numcnt : 1306905 
+ One_line Sum : 148
+ Score        : 36
+
+*** 20 second ago ***
+ numcnt : 1373991 
+ One_line Sum : 148
+ Score        : 36
+
+*** 21 second ago ***
+ numcnt : 1441747 
+ One_line Sum : 148
+ Score        : 36
+
+ Best is this. 
+ One_line Sum : 130
+ Score        : 42
+ 26  38  55  11 
+ 15  53  17  45 
+ 35  36  12  47 
+ 54   3  46  27 
+
+ 40   2  39  49 
+ 30  37   1  62 
+ 10  48  28  57 
+  4  43  23  25 
+
+ 42  31   7  50 
+ 44  21  60   5 
+ 58  14  34  24 
+  6  64   9  51 
+
+ 22  59   8  41 
+ 63  19  52  18 
+ 29  32  56  13 
+ 16  20  61  33 
+
+============================
+x = 28
+
+*** 0 second ago ***
+ numcnt : 1 
+ One_line Sum : 106
+ Score        : 3
+
+*** 1 second ago ***
+ numcnt : 68815 
+ One_line Sum : 121
+ Score        : 32
+
+*** 2 second ago ***
+ numcnt : 137207 
+ One_line Sum : 121
+ Score        : 33
+
+*** 3 second ago ***
+ numcnt : 206006 
+ One_line Sum : 121
+ Score        : 33
+
+*** 4 second ago ***
+ numcnt : 272780 
+ One_line Sum : 121
+ Score        : 33
+
+*** 5 second ago ***
+ numcnt : 341350 
+ One_line Sum : 121
+ Score        : 33
+
+*** 6 second ago ***
+ numcnt : 411380 
+ One_line Sum : 121
+ Score        : 33
+
+*** 7 second ago ***
+ numcnt : 481681 
+ One_line Sum : 121
+ Score        : 33
+
+*** 8 second ago ***
+ numcnt : 553767 
+ One_line Sum : 121
+ Score        : 35
+
+*** 9 second ago ***
+ numcnt : 622370 
+ One_line Sum : 121
+ Score        : 36
+
+*** 10 second ago ***
+ numcnt : 694351 
+ One_line Sum : 121
+ Score        : 36
+
+*** 11 second ago ***
+ numcnt : 766133 
+ One_line Sum : 121
+ Score        : 36
+
+*** 12 second ago ***
+ numcnt : 836271 
+ One_line Sum : 121
+ Score        : 36
+
+*** 13 second ago ***
+ numcnt : 901805 
+ One_line Sum : 121
+ Score        : 36
+
+*** 14 second ago ***
+ numcnt : 971253 
+ One_line Sum : 121
+ Score        : 36
+
+*** 15 second ago ***
+ numcnt : 1037840 
+ One_line Sum : 121
+ Score        : 36
+
+*** 16 second ago ***
+ numcnt : 1104355 
+ One_line Sum : 121
+ Score        : 36
+
+*** 17 second ago ***
+ numcnt : 1173286 
+ One_line Sum : 121
+ Score        : 36
+
+*** 18 second ago ***
+ numcnt : 1240187 
+ One_line Sum : 121
+ Score        : 36
+
+*** 19 second ago ***
+ numcnt : 1307934 
+ One_line Sum : 121
+ Score        : 36
+
+*** 20 second ago ***
+ numcnt : 1376031 
+ One_line Sum : 121
+ Score        : 36
+
+*** 21 second ago ***
+ numcnt : 1442482 
+ One_line Sum : 121
+ Score        : 36
+
+ Best is this. 
+ One_line Sum : 130
+ Score        : 42
+ 26  38  55  11 
+ 15  53  17  45 
+ 35  36  12  47 
+ 54   3  46  27 
+
+ 40   2  39  49 
+ 30  37   1  62 
+ 10  48  28  57 
+  4  43  23  25 
+
+ 42  31   7  50 
+ 44  21  60   5 
+ 58  14  34  24 
+  6  64   9  51 
+
+ 22  59   8  41 
+ 63  19  52  18 
+ 29  32  56  13 
+ 16  20  61  33 
+
+============================
+x = 29
+
+*** 0 second ago ***
+ numcnt : 1 
+ One_line Sum : 106
+ Score        : 3
+
+*** 1 second ago ***
+ numcnt : 67542 
+ One_line Sum : 115
+ Score        : 30
+
+*** 2 second ago ***
+ numcnt : 134420 
+ One_line Sum : 115
+ Score        : 30
+
+*** 3 second ago ***
+ numcnt : 200928 
+ One_line Sum : 115
+ Score        : 30
+
+*** 4 second ago ***
+ numcnt : 268128 
+ One_line Sum : 115
+ Score        : 30
+
+*** 5 second ago ***
+ numcnt : 335589 
+ One_line Sum : 115
+ Score        : 30
+
+*** 6 second ago ***
+ numcnt : 402627 
+ One_line Sum : 115
+ Score        : 30
+
+*** 7 second ago ***
+ numcnt : 470196 
+ One_line Sum : 115
+ Score        : 30
+
+*** 8 second ago ***
+ numcnt : 537833 
+ One_line Sum : 115
+ Score        : 34
+
+*** 9 second ago ***
+ numcnt : 605877 
+ One_line Sum : 115
+ Score        : 35
+
+*** 10 second ago ***
+ numcnt : 674440 
+ One_line Sum : 115
+ Score        : 35
+
+*** 11 second ago ***
+ numcnt : 742816 
+ One_line Sum : 115
+ Score        : 35
+
+*** 12 second ago ***
+ numcnt : 810717 
+ One_line Sum : 115
+ Score        : 35
+
+*** 13 second ago ***
+ numcnt : 878708 
+ One_line Sum : 115
+ Score        : 35
+
+*** 14 second ago ***
+ numcnt : 946996 
+ One_line Sum : 115
+ Score        : 35
+
+*** 15 second ago ***
+ numcnt : 1016350 
+ One_line Sum : 115
+ Score        : 35
+
+*** 16 second ago ***
+ numcnt : 1083930 
+ One_line Sum : 115
+ Score        : 35
+
+*** 17 second ago ***
+ numcnt : 1152168 
+ One_line Sum : 115
+ Score        : 35
+
+*** 18 second ago ***
+ numcnt : 1220684 
+ One_line Sum : 115
+ Score        : 35
+
+*** 19 second ago ***
+ numcnt : 1289734 
+ One_line Sum : 115
+ Score        : 35
+
+*** 20 second ago ***
+ numcnt : 1358635 
+ One_line Sum : 115
+ Score        : 35
+
+*** 21 second ago ***
+ numcnt : 1426993 
+ One_line Sum : 115
+ Score        : 35
+
+*** 22 second ago ***
+ numcnt : 1494708 
+ One_line Sum : 115
+ Score        : 35
+
+ Best is this. 
+ One_line Sum : 130
+ Score        : 42
+ 26  38  55  11 
+ 15  53  17  45 
+ 35  36  12  47 
+ 54   3  46  27 
+
+ 40   2  39  49 
+ 30  37   1  62 
+ 10  48  28  57 
+  4  43  23  25 
+
+ 42  31   7  50 
+ 44  21  60   5 
+ 58  14  34  24 
+  6  64   9  51 
+
+ 22  59   8  41 
+ 63  19  52  18 
+ 29  32  56  13 
+ 16  20  61  33 
+
+============================
+x = 30
+
+*** 0 second ago ***
+ numcnt : 1 
+ One_line Sum : 128
+ Score        : 5
+
+*** 1 second ago ***
+ numcnt : 64000 
+ One_line Sum : 120
+ Score        : 29
+
+*** 2 second ago ***
+ numcnt : 127886 
+ One_line Sum : 120
+ Score        : 29
+
+*** 3 second ago ***
+ numcnt : 192862 
+ One_line Sum : 120
+ Score        : 29
+
+*** 4 second ago ***
+ numcnt : 261137 
+ One_line Sum : 120
+ Score        : 29
+
+*** 5 second ago ***
+ numcnt : 328502 
+ One_line Sum : 120
+ Score        : 29
+
+*** 6 second ago ***
+ numcnt : 396001 
+ One_line Sum : 120
+ Score        : 29
+
+*** 7 second ago ***
+ numcnt : 462776 
+ One_line Sum : 120
+ Score        : 29
+
+*** 8 second ago ***
+ numcnt : 529138 
+ One_line Sum : 120
+ Score        : 31
+
+*** 9 second ago ***
+ numcnt : 595839 
+ One_line Sum : 120
+ Score        : 31
+
+*** 10 second ago ***
+ numcnt : 664231 
+ One_line Sum : 120
+ Score        : 31
+
+*** 11 second ago ***
+ numcnt : 732276 
+ One_line Sum : 120
+ Score        : 32
+
+*** 12 second ago ***
+ numcnt : 797442 
+ One_line Sum : 120
+ Score        : 34
+
+*** 13 second ago ***
+ numcnt : 866065 
+ One_line Sum : 120
+ Score        : 34
+
+*** 14 second ago ***
+ numcnt : 934182 
+ One_line Sum : 120
+ Score        : 34
+
+*** 15 second ago ***
+ numcnt : 1003003 
+ One_line Sum : 120
+ Score        : 34
+
+*** 16 second ago ***
+ numcnt : 1068042 
+ One_line Sum : 120
+ Score        : 34
+
+*** 17 second ago ***
+ numcnt : 1137129 
+ One_line Sum : 120
+ Score        : 34
+
+*** 18 second ago ***
+ numcnt : 1205913 
+ One_line Sum : 120
+ Score        : 34
+
+*** 19 second ago ***
+ numcnt : 1272933 
+ One_line Sum : 120
+ Score        : 34
+
+*** 20 second ago ***
+ numcnt : 1340966 
+ One_line Sum : 120
+ Score        : 34
+
+*** 21 second ago ***
+ numcnt : 1406361 
+ One_line Sum : 120
+ Score        : 34
+
+*** 22 second ago ***
+ numcnt : 1474515 
+ One_line Sum : 120
+ Score        : 34
+
+ Best is this. 
+ One_line Sum : 130
+ Score        : 42
+ 26  38  55  11 
+ 15  53  17  45 
+ 35  36  12  47 
+ 54   3  46  27 
+
+ 40   2  39  49 
+ 30  37   1  62 
+ 10  48  28  57 
+  4  43  23  25 
+
+ 42  31   7  50 
+ 44  21  60   5 
+ 58  14  34  24 
+  6  64   9  51 
+
+ 22  59   8  41 
+ 63  19  52  18 
+ 29  32  56  13 
+ 16  20  61  33 
+
+numcnt : 1500000

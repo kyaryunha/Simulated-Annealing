@@ -1,0 +1,100 @@
+#include<bits/stdc++.h>
+using namespace std;
+#define F(x,y,z) for(int i=x;i<=y;i+=z)
+#define cp(x,y) cnt.push_back(a.arr[x]+a.arr[(y)+x]+a.arr[2*(y)+x]+a.arr[3*(y)+x])
+double p,k,T,colder_k; int numcnt;
+struct child{ int arr[1<<6|1],one_line_sum,score,posi; }_first,E1,E2,best,lastbest;
+clock_t start,finish;
+int duration,pastDuration;
+child calc_score(child a){
+    int res_num=0,res_cnt=0,tmp_num=0,tmp_cnt=0;
+    vector<int> cnt;
+    F(1,61,1<<2) cp(i,1);
+    F(1,1<<2,1) cp(i,1<<2),cp((1<<4)+i,1<<2),cp(2*(1<<4)+i,1<<2),cp(3*(1<<4)+i,1<<2);
+    F(1,49,1<<4) cp(i,5),cp(i+3,3);
+    cp(1,21); cp(1<<2,19); cp(13,13); cp(1<<4,11);
+    F(1,1<<4,1) cp(i,1<<4);
+    F(1,13,1<<2) cp(i,17),cp(i+3,15);
+    F(1,1<<2,1) cp(i,20); F(13,1<<4,1) cp(i,12);
+    sort(cnt.begin(),cnt.end());
+    F(0,cnt.size(),1){
+        int now = cnt[i];
+        if(now!=tmp_num) tmp_num=now,tmp_cnt=1;
+        else if(++tmp_cnt>res_cnt) res_num=tmp_num,res_cnt=tmp_cnt;
+    }
+    a.one_line_sum = res_num; a.score = res_cnt; a.posi = tmp_cnt==cnt.size()?1:0;
+    return a;
+}
+child make_child(child a){
+    int tmp,tmp2,init_val,change,how_many_change=rand()%(1<<3)+1;
+    F(1,how_many_change,1){
+        change = rand()%(1<<6)+1;
+        if(i==1) init_val=change,tmp=a.arr[change];
+        if(change!=init_val)tmp2=a.arr[change],a.arr[change]=tmp,tmp=tmp2;
+        if(i==how_many_change) a.arr[init_val]=tmp;
+    }
+    return a=calc_score(a);
+}
+void print_best(child a){
+    printf("\n Best is this. \n");
+    printf(" One_line Sum : %d\n",a.one_line_sum);
+    printf(" Score        : %d\n",a.score);
+    F(1,1<<6,1){
+        printf("%3d ",a.arr[i]);
+        if(!(i%(1<<2))) printf("\n");
+        if(!(i%(1<<4))) printf("\n");
+    }
+}
+void print_time(child a){
+    printf("\n numcnt : %d \n",numcnt);
+    printf(" One_line Sum : %d\n",a.one_line_sum);
+    printf(" Score        : %d\n",a.score);
+}
+int main(void){
+    FILE *out = fopen("out.txt", "w");
+    srand((unsigned)time(NULL));
+    printf(" Program is running...\n\n");
+    for(int x=1;x<=30;x++)
+    {
+        numcnt = 0; k = 50.0, T = 0.01,colder_k = 0.0001;
+        printf("============================\nx = %d\n",x);
+        fprintf(out,"============================\nx = %d\n",x);
+        F(1,1<<6,1) _first.arr[i] = i; _first = calc_score(_first);
+        E1=_first; best=_first; E1.posi=0; best.posi=0;
+        start = clock();
+        while(k>T){
+            E2 = make_child(E1);
+            if(best.score<E2.score) best=E2;
+            p = exp((E2.score-E1.score)/T*k);
+            if(p>rand()%1000000/1000000.0) E1 = E2;
+            k-=colder_k; numcnt++;
+            if(k<3&&colder_k==0.0001 ) colder_k=0.00005;
+            if(k<1&&colder_k==0.00005 ) colder_k=0.000001;
+            finish = clock();
+            duration = (finish - start)/1000;
+            if(duration!=pastDuration){
+                printf("\n*** %d second ago ***",duration);
+                fprintf(out,"\n*** %d second ago ***",duration);
+                print_time(best);
+                    fprintf(out,"\n numcnt : %d \n",numcnt);
+                    fprintf(out," One_line Sum : %d\n",best.one_line_sum);
+                    fprintf(out," Score        : %d\n",best.score);
+            }
+            pastDuration = duration;
+        }
+        if(lastbest.score<best.score) lastbest = best;
+
+        print_best(lastbest);
+            fprintf(out,"\n Best is this. \n");
+            fprintf(out," One_line Sum : %d\n",lastbest.one_line_sum);
+            fprintf(out," Score        : %d\n",lastbest.score);
+            F(1,1<<6,1){
+                fprintf(out,"%3d ",lastbest.arr[i]);
+                if(!(i%(1<<2))) fprintf(out,"\n");
+                if(!(i%(1<<4))) fprintf(out,"\n");
+            }
+    }
+    print_best(lastbest);
+    printf("numcnt : %d",numcnt);
+    fprintf(out,"numcnt : %d",numcnt);
+}

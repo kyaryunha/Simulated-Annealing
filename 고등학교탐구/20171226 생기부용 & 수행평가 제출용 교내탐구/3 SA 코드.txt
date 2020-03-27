@@ -1,0 +1,152 @@
+/** 혹시나 코드를 읽어보고 싶은 학생들을 위해 1학년 때 정보 시간에 배운 문법 내에서 작성하였습니다. **/
+#include<stdio.h>
+
+/** 1학년때 랜덤함수 배웠는진 기억 안나지만, 쨋든 별다른 기능 사용하지 않았고, 랜덤함수 때문에 넣은 헤더파일 1 **/
+#include<stdlib.h>
+
+/** 별다른 기능은 사용하지 않았고, 랜덤함수 때문에 넣은 헤더파일 2 **/
+#include<time.h>
+
+/** 별다른 기능은 사용하지 않았고, 절댓값 반환 함수 한줄 추가하는거 귀찮아서 대신 넣은 헤더파일 **/
+#include<algorithm>
+
+/** 별다른 기능은 사용하지 않았고, 자연상수 때문에 넣은 헤더파일 **/
+#include <math.h>
+
+/** colder_k는 온도감률, 시간이 지날 때마다 온도가 떨어지는 정도 **/
+#define colder_k 0.9995
+
+/** 사소한 것도 줄여서 사용하면 코드가 간결해진다..! **/
+#define ll long long
+
+/** 전달자로 사용하는 일반항의 최대 차수와 최대 계수를 설정할 수 있게 하여 상황에 맞게 적절히 쓸 수 있게 함 **/
+ll MAXI_CHA,MAXI_SANGSU;
+
+/** algorithm 헤더파일 때문에 같이 작성한 한 줄.. 그냥 무시하고 읽어도 이해하는데 상관 ㄴㄴ**/
+using namespace std;
+
+/** 다항식의 일반항을 저장하는 구조체를 새로운 타입으로 선언해줌 **/
+typedef struct Poly{
+    ll an[100];
+}Poly;
+
+/** p는 확률 **/
+double p;
+
+/** n은 데이터의 개수, arr은 각 데이터의 실제 값 **/
+ll n,arr[1005];
+
+/** k는 시작 온도, T는 종료 온도 **/
+double k=500.0, T=0.9;
+
+/** E1 = 기존 상태의 에너지, E2 = 새로운 상태의 에너지, smallest = 이제껏 나온 가장 작은 에너지  **/
+ll E1,E2,smallest;
+
+/** first : 기존 상태의 수식, second = 새로운 상태의 수식, smallAn = 이제껏 나온 가장 작은 에너지를 생성하는 수식  **/
+Poly first,second,smallAn;
+
+/** 부모로부터 새로운 자식을 만드는 함수 **/
+Poly New_An(Poly susic){
+    ll buho = rand()%2;
+    ll where = rand()%MAXI_CHA; /**바꿀 곳을 한 군데 랜덤으로 고르고**/
+    ll what = rand()%MAXI_SANGSU; /**어떤 값으로 바꿀지 한 군데 랜덤으로 골라서**/
+    if(buho==1) what=-what; /**부호가 음수인지 양수인지도 랜덤으로 골라서**/
+    susic.an[where]=what;
+    return susic; /** 바꾸고, 바꾼값을 반환한다 **/
+}
+
+/** 전달된 일반항의 k번째 값을 계산하여 반환함 **/
+/**사실 적당히 큰 k값에 대해, 사전에 미리 n^k의 값을 저장한 전역 배열을 생성하여 동적계획법으로 해결하는 것이 효율적이나, 좀 더 절차적으로 보여주기 위해 다음과 같이 작성함 **/
+ll Calc_ax(int k,Poly susic){
+    ll num=0,temp;
+    for(int i=0;i<=MAXI_CHA;i++){
+        temp = 1;
+        temp*=susic.an[i];
+        for(int j=1;j<=i;j++) temp*=k;
+        num+=temp;
+    }
+    return num;
+}
+
+/** 전달된 일반항의 모든항과, 입력한 데이터와의 차이를 비교하여 총 차이를 반환함 **/
+ll Calc_Difference(Poly susic){
+    ll result=0;
+    for(int i=1;i<=n;i++) result += abs(arr[i]-Calc_ax(i,susic));
+    return result;
+}
+
+/** 다항식을 출력하는 함수 **/
+void printPoly(Poly susic){
+    int first;
+    for(int i=MAXI_CHA;i>=0;i--)
+        if(susic.an[i]!=0){
+            first = i;
+            break;
+        }
+    for(int i=MAXI_CHA;i>=0;i--){
+        if(i==1 && susic.an[i]!=0 && first ==i ){
+            printf("%lldn",susic.an[i]);
+        }
+        else if(i==1 && susic.an[i]!=0 ){
+            if(susic.an[i]>0) printf(" + %lldn",abs(susic.an[i]));
+            else printf(" - %lldn",abs(susic.an[i]));
+        }
+        else if(i==0 && susic.an[i]!=0 && first ==i ){
+            printf("%lld",susic.an[i]);
+        }
+        else if(i==0 && susic.an[i]!=0 ){
+            if(susic.an[i]>0) printf(" + %lld",abs(susic.an[i]));
+            else printf(" - %lld",abs(susic.an[i]));
+        }
+        else if(first==i){
+            printf(" %lldn^%d",susic.an[i],i);
+        }
+        else if( i<first && susic.an[i]!=0 ){
+           if(susic.an[i]>0)  printf(" + %lldn^%d",abs(susic.an[i]),i);
+           else printf(" - %lldn^%d",abs(susic.an[i]),i);
+        }
+    }
+}
+
+int main(void)
+{
+    srand((unsigned)time(NULL));
+    printf("수열에서 구하려는 일반항의 최고차항의 최댓값과, 최대 계수를 각각 입력\n : ");
+    scanf("%lld %lld",&MAXI_CHA,&MAXI_SANGSU);
+    MAXI_CHA++; MAXI_SANGSU++;
+    printf("몇 항까지 입력할건지?\n : ");
+    scanf("%lld",&n);
+    printf("수열을 입력해주세요 \n : ");
+    for(int i=1;i<=n;i++) scanf("%lld",&arr[i]);
+    /** 초기값은 an = 0을 사용 **/
+    E1 = Calc_Difference(first);
+    smallAn = first;
+    smallest = E1;
+    int cnt=0;
+    while(k>T){
+        cnt++;
+        /** 새로운 상태를 만든다. **/
+        second = New_An(first);
+        /** 새로운 상태의 에너지를 계산한다. **/
+        E2=Calc_Difference(second);
+        if(smallest > E2){
+            /** 기존의 최상값보다 좋은 값이라면 최상값 갱신 **/
+            smallest = E2;
+            smallAn = second;
+        }
+        /** 효율적임과 상관없이 확률적으로 변하거나 그대로를 유지하는데, 시간이 지날수록 비효율적이더라도 변화 가능한 정도가 줄어든다. **/
+        p=exp(((E1-E2)/k*T));
+      //  printf("%lld %lld %.2lf : ",E1,E2%1000,p); printPoly(first);
+        if(p>rand()%10000/10000.0){
+            E1=E2;
+            first = second;
+        }
+        else first = first; // 원상복귀
+        /** 시간이 지날수록 온도가 감소한다. **/
+        k*=colder_k;
+    }
+    printf("\n");
+    printf("cnt : %d\n",cnt);
+    printf("cha : %lld\n",smallest);
+    printf("SLP : "); printPoly(smallAn);
+}

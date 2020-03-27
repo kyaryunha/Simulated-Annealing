@@ -1,0 +1,186 @@
+/** 앞 코드와 다르게 아래 코드는 vector라고 1학년때 배우지 않은 것이 나오는데, 그냥 대충 배열과 비슷한?것이라 생각하면 됩니다.
+기하와 벡터에 나오는 그 벡터에서 이름을 따온 것이라곤 하나 실제로 거의 연관성x 그냥 좀 동적인 배열임.
+코딩 내에 그닥 vector를 사용할 이유는 딱히 없지만 굳이 사용한 이유는 제가 저게 편하므로 **/
+#include<stdio.h>
+#include<stdlib.h>
+#include<time.h>
+#include<algorithm>
+#include<vector>
+#include <math.h>
+#define ll long long
+ll MAXI_CHA,MAXI_SANGSU;
+/**컴퓨터에선 무한이란 값을 저장 할 수 있으므로, 적당히 큰 값을 무한 대신 사용**/
+#define INF 987654321
+using namespace std;
+typedef struct Poly{
+    ll an[100]={0};
+}Poly;
+/** <에너지,다항식>을 의미하는 <ll,Poly>를 간추려 plp로 쓴다고 사용자 정의함. **/
+#define plp pair<ll,Poly>
+/** plp 간의 우선순위를 지정해준다. SetPoly 내의 다항식들을 에너지 작은 순대로 정렬하기 위한 함수  **/
+bool plpCompare(plp x, plp y){ if(x.first<y.first) return 1; else return 0; }
+/** 여러개의 다항식들을 모아놓은 것. 즉, 유전자들을 여러개 묶어놓은 집단 **/
+typedef struct SetPoly{ vector<Poly> child; }SetPoly;
+ll n,arr[1005],smallest;
+Poly smallAn;
+
+/** 부모로부터 새로운 자식을 만드는 함수 **/
+Poly New_An(Poly susic){
+    ll buho = rand()%2;
+    ll where = rand()%MAXI_CHA; /**바꿀 곳을 한 군데 랜덤으로 고르고**/
+    ll what = rand()%MAXI_SANGSU; /**어떤 값으로 바꿀지 한 군데 랜덤으로 골라서**/
+    if(buho==1) what=-what; /**부호가 음수인지 양수인지도 랜덤으로 골라서**/
+    susic.an[where]=what;
+    return susic; /** 바꾸고, 바꾼값을 반환한다 **/
+}
+/** 전달된 일반항의 k번째 값을 계산하여 반환함 **/
+ll Calc_ax(int k,Poly susic){
+    ll num=0,temp;
+    for(int i=0;i<=MAXI_CHA;i++){
+        temp = 1;
+        temp*=susic.an[i];
+        for(int j=1;j<=i;j++) temp*=k;
+        num+=temp;
+    }
+    return num;
+}
+/** 전달된 일반항의 모든항과, 입력한 데이터와의 차이를 비교하여 총 차이를 반환함 **/
+ll Calc_Difference(Poly susic){
+    ll result=0;
+    for(int i=1;i<=n;i++) result += abs(arr[i]-Calc_ax(i,susic));
+    return result;
+}
+
+/** 차이를 출력한다. **/
+void Print_Calc_Difference(Poly susic){
+    ll result=0;
+    for(int i=1;i<=n;i++) printf(" %lld",abs(arr[i]-Calc_ax(i,susic)));
+    printf("\n");
+}
+
+/** 다항식을 출력하는 함수 **/
+void printPoly(Poly susic){
+    int first;
+    for(int i=MAXI_CHA;i>=0;i--)
+        if(susic.an[i]!=0){
+            first = i;
+            break;
+        }
+    for(int i=MAXI_CHA;i>=0;i--){
+        if(i==1 && susic.an[i]!=0 && first ==i ){
+            printf("%lldn",susic.an[i]);
+        }
+        if(i==1 && susic.an[i]!=0 ){
+            if(susic.an[i]>0) printf(" + %lldn",abs(susic.an[i]));
+            else printf(" - %lldn",abs(susic.an[i]));
+        }
+        else if(i==0 && susic.an[i]!=0 && first ==i ){
+            printf("%lld",susic.an[i]);
+        }
+        else if(i==0 && susic.an[i]!=0 ){
+            if(susic.an[i]>0) printf(" + %lld",abs(susic.an[i]));
+            else printf(" - %lld",abs(susic.an[i]));
+        }
+        else if(first==i){
+            printf(" %lldn^%d",susic.an[i],i);
+        }
+        else if( i<first && susic.an[i]!=0 ){
+           if(susic.an[i]>0)  printf(" + %lldn^%d",abs(susic.an[i]),i);
+           else printf(" - %lldn^%d",abs(susic.an[i]),i);
+        }
+    }
+}
+
+/** 돌연변이를 생성하는 코드. 돌연변이를 생성할 시 부모 없이 자가생성한다. 딱히 의미는 없지만 신현의 포켓몬 최애 NPC인 잘생긴 N의 아이디넘버가 2이므로 2차식부터 시작한다 **/
+Poly RandPoly(void){
+    Poly res;
+    for(int i=1;i<=4;i++){
+        ll buho = rand()%2;
+        ll where = rand()%MAXI_CHA;
+        ll what = rand()%MAXI_SANGSU;
+        if(buho==1) what=-what; /**부호가 음수인지 양수인지도 랜덤으로 골라서**/
+        res.an[where]=what;
+    }
+    return res;
+}
+/** 초기 랜덤 plp 배열을 생선한다. 시작할때 한 번밖에 쓰이지 않지만 굳이 함수 따로 만든 이유는 코드 간결하게 하려고다 **/
+vector<plp> makeSetPoly(void){
+    vector<plp> Tening(10);
+    for(int i=0;i<10;i++){
+        Tening[i].second = RandPoly();
+        Tening[i].first = Calc_Difference(Tening[i].second);
+    }
+    sort(Tening.begin(),Tening.end(),plpCompare);
+    return Tening;
+}
+/** 두 plp이 같은지 다른지를 반환한다. 1이면 같은 것 **/
+bool Compare_Plp( plp x, plp y){
+    if(x.first!=y.first) return 0;
+    for(int i=0;i<MAXI_CHA;i++)
+    {
+        if(x.second.an[i]!=y.second.an[i]) return 0;
+    }
+    return 1;
+}
+
+/**
+0~6까지는 하나의 유전자 집단의 각 유전자에 대해 10개의 자손 중 가장 좋은 자손을 선택한다.
+7~9까지는, 이전에 좋지 못한 3개는 도태되고, 새로운 유전자가 돌연변이에 의해 생성된다.
+마지막에 plp를 에너지값에 따라 정렬함으로써, 다음 세대에 도태될 애들이 7~9번에 위치하도록 해준다.
+0번에 현재 유전자 집단 중 가장 좋은 유전자.
+  **/
+vector<plp> ChooseTenofOne(vector<plp> Selection){
+    vector<plp> Tening(10);
+    Poly chance;
+    int Mut = 6;
+    for(int i=0;i<10;i++)
+    {
+        Poly best=Selection[i].second ; ll bestCalc=Selection[i].first;
+        vector<Poly> child(10);
+        if(Mut<i){ chance = RandPoly(); best = chance; bestCalc = Calc_Difference(chance); }
+        for(int j=0;j<10;j++)
+        {
+            if(i<=Mut) child[i] = New_An(Selection[i].second);
+            if(Mut<i) child[i] = New_An(chance);
+            ll childVal =  Calc_Difference(child[i]);
+            if(childVal<bestCalc){ best = child[i]; bestCalc=childVal; }
+        }
+        Tening[i].first=bestCalc; Tening[i].second=best;
+        if( i>=3 ){
+              if(Compare_Plp(Tening[i-1],Tening[i]))
+              {
+                  Tening[i].second = RandPoly();
+                  Tening[i].first = Calc_Difference(Tening[i].second);
+              }
+        }
+    }
+    sort(Tening.begin(),Tening.end(),plpCompare);
+    return Tening;
+}
+int main(void)
+{
+    ll cnt = 0;
+    srand((unsigned)time(NULL));
+    printf("수열에서 구하려는 일반항의 최고차항의 최댓값과, 최대 계수를 각각 입력\n : ");
+    scanf("%lld %lld",&MAXI_CHA,&MAXI_SANGSU); MAXI_CHA++; MAXI_SANGSU++;
+    printf("몇 항까지 입력할건지?\n : ");
+    scanf("%lld",&n);
+    printf("수열을 입력해주세요 \n : ");
+    for(int i=1;i<=n;i++) scanf("%lld",&arr[i]);
+
+    /** 첫번째 10개의 랜덤 유전자를 만든다. **/
+    vector<plp> Selection = makeSetPoly();
+
+    /** 10000세대롤 반복한다. **/
+    for(int i=0;i<=10000;i++){
+            Selection = ChooseTenofOne(Selection);
+           // printPoly(Selection[0].second); printf("\n");
+    }
+
+    /** 가장 좋은 유전자는 0번째..! **/
+    smallest = Selection[0].first; smallAn = Selection[0].second;
+    printf("\n");
+    printf("cha : %lld\n",smallest);
+    Print_Calc_Difference(smallAn);
+    printf("SLP : "); printPoly(smallAn);
+}

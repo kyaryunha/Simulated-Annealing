@@ -20,7 +20,7 @@
 
 
 
-#### BOJ [3057](https://www.acmicpc.net/problem/3057) 디버그 (틀림)
+#### BOJ [3057 디버그](https://www.acmicpc.net/problem/3057) (틀림)
 
 11% 정도에서 틀리는데, 나중에 다시 시도하겠다. ( 정해는 DP라고 알고 있다. )
 
